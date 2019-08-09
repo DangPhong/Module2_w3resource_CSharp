@@ -1,0 +1,11 @@
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex24\bin\Debug\netcoreapp2.1\Ex24.deps.json
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex24\bin\Debug\netcoreapp2.1\Ex24.runtimeconfig.json
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex24\bin\Debug\netcoreapp2.1\Ex24.runtimeconfig.dev.json
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex24\bin\Debug\netcoreapp2.1\Ex24.dll
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex24\bin\Debug\netcoreapp2.1\Ex24.pdb
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex24\obj\Debug\netcoreapp2.1\Ex24.csprojAssemblyReference.cache
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex24\obj\Debug\netcoreapp2.1\Ex24.csproj.CoreCompileInputs.cache
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex24\obj\Debug\netcoreapp2.1\Ex24.AssemblyInfoInputs.cache
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex24\obj\Debug\netcoreapp2.1\Ex24.AssemblyInfo.cs
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex24\obj\Debug\netcoreapp2.1\Ex24.dll
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex24\obj\Debug\netcoreapp2.1\Ex24.pdb

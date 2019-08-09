@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex09\\Ex09.csproj": {}
+  },
+  "projects": {
+    "D:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex09\\Ex09.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex09\\Ex09.csproj",
+        "projectName": "Ex09",
+        "projectPath": "D:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex09\\Ex09.csproj",
+        "packagesPath": "C:\\Users\\dangp\\.nuget\\packages\\",
+        "outputPath": "D:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex09\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dangp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

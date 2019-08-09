@@ -1,0 +1,10 @@
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex18\bin\Debug\netcoreapp2.1\Ex18.deps.json
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex18\bin\Debug\netcoreapp2.1\Ex18.runtimeconfig.json
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex18\bin\Debug\netcoreapp2.1\Ex18.runtimeconfig.dev.json
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex18\bin\Debug\netcoreapp2.1\Ex18.dll
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex18\bin\Debug\netcoreapp2.1\Ex18.pdb
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex18\obj\Debug\netcoreapp2.1\Ex18.csproj.CoreCompileInputs.cache
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex18\obj\Debug\netcoreapp2.1\Ex18.AssemblyInfoInputs.cache
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex18\obj\Debug\netcoreapp2.1\Ex18.AssemblyInfo.cs
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex18\obj\Debug\netcoreapp2.1\Ex18.dll
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex18\obj\Debug\netcoreapp2.1\Ex18.pdb
