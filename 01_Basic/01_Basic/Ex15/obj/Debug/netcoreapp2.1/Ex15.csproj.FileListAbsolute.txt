@@ -8,3 +8,4 @@ D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex15\obj\Debug\netcoreapp2.1\Ex15
 D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex15\obj\Debug\netcoreapp2.1\Ex15.AssemblyInfo.cs
 D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex15\obj\Debug\netcoreapp2.1\Ex15.dll
 D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex15\obj\Debug\netcoreapp2.1\Ex15.pdb
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex15\obj\Debug\netcoreapp2.1\Ex15.csprojAssemblyReference.cache

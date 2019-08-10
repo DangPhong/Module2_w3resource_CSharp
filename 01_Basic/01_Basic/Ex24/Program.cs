@@ -8,26 +8,20 @@ namespace Ex24
         static void Main(string[] args)
         {
             string str = "  nguyen     dang      phong dangffffff       ";
-            //string[] arr = str.Split(' ');
-            //string maxStr = arr[0];
-            //for (int i = 0; i < arr.Length; i++)
-            //{
-            //    if (arr[i].Length > maxStr.Length)
-            //    {
-            //        maxStr = arr[i];
-            //    }
-            //}
-            for (int i = 0; i < str.Length-1; i++)
+            string[] arr = str.Split(' ');
+            string maxStr = arr[0];
+            for (int i = 0; i < arr.Length; i++)
             {
-                if (str[i]==' ' && str[i+1] != ' ')
+                if (arr[i].Length > maxStr.Length)
                 {
-                    str = str.Remove(i, 1);
+                    maxStr = arr[i];
                 }
             }
 
+
             Console.WriteLine(str);
-            //Console.WriteLine(string.Join(",",arr));
-            //Console.WriteLine("the longest word in a string is: "+ maxStr);
+            Console.WriteLine(string.Join(",", arr));
+            Console.WriteLine("the longest word in a string is: " + maxStr);
         }
     }
 }
