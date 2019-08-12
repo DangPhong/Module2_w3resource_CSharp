@@ -8,3 +8,4 @@ D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex56\obj\Debug\netcoreapp2.1\Ex56
 D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex56\obj\Debug\netcoreapp2.1\Ex56.AssemblyInfo.cs
 D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex56\obj\Debug\netcoreapp2.1\Ex56.dll
 D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex56\obj\Debug\netcoreapp2.1\Ex56.pdb
+D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex56\obj\Debug\netcoreapp2.1\Ex56.csprojAssemblyReference.cache
