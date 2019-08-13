@@ -1,0 +1,11 @@
+D:\Module2_w3resource_CSharp\02_OOP\Ex02_PhotoAlbumTarea\bin\Debug\netcoreapp2.1\Ex02_PhotoAlbumTarea.deps.json
+D:\Module2_w3resource_CSharp\02_OOP\Ex02_PhotoAlbumTarea\bin\Debug\netcoreapp2.1\Ex02_PhotoAlbumTarea.runtimeconfig.json
+D:\Module2_w3resource_CSharp\02_OOP\Ex02_PhotoAlbumTarea\bin\Debug\netcoreapp2.1\Ex02_PhotoAlbumTarea.runtimeconfig.dev.json
+D:\Module2_w3resource_CSharp\02_OOP\Ex02_PhotoAlbumTarea\bin\Debug\netcoreapp2.1\Ex02_PhotoAlbumTarea.dll
+D:\Module2_w3resource_CSharp\02_OOP\Ex02_PhotoAlbumTarea\bin\Debug\netcoreapp2.1\Ex02_PhotoAlbumTarea.pdb
+D:\Module2_w3resource_CSharp\02_OOP\Ex02_PhotoAlbumTarea\obj\Debug\netcoreapp2.1\Ex02_PhotoAlbumTarea.csprojAssemblyReference.cache
+D:\Module2_w3resource_CSharp\02_OOP\Ex02_PhotoAlbumTarea\obj\Debug\netcoreapp2.1\Ex02_PhotoAlbumTarea.csproj.CoreCompileInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\Ex02_PhotoAlbumTarea\obj\Debug\netcoreapp2.1\Ex02_PhotoAlbumTarea.AssemblyInfoInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\Ex02_PhotoAlbumTarea\obj\Debug\netcoreapp2.1\Ex02_PhotoAlbumTarea.AssemblyInfo.cs
+D:\Module2_w3resource_CSharp\02_OOP\Ex02_PhotoAlbumTarea\obj\Debug\netcoreapp2.1\Ex02_PhotoAlbumTarea.dll
+D:\Module2_w3resource_CSharp\02_OOP\Ex02_PhotoAlbumTarea\obj\Debug\netcoreapp2.1\Ex02_PhotoAlbumTarea.pdb
