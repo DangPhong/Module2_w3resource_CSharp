@@ -1,0 +1,11 @@
+D:\Module2_w3resource_CSharp\02_OOP\Ex03_Shapes\bin\Debug\netcoreapp2.1\Ex03_Shapes.deps.json
+D:\Module2_w3resource_CSharp\02_OOP\Ex03_Shapes\bin\Debug\netcoreapp2.1\Ex03_Shapes.runtimeconfig.json
+D:\Module2_w3resource_CSharp\02_OOP\Ex03_Shapes\bin\Debug\netcoreapp2.1\Ex03_Shapes.runtimeconfig.dev.json
+D:\Module2_w3resource_CSharp\02_OOP\Ex03_Shapes\bin\Debug\netcoreapp2.1\Ex03_Shapes.dll
+D:\Module2_w3resource_CSharp\02_OOP\Ex03_Shapes\bin\Debug\netcoreapp2.1\Ex03_Shapes.pdb
+D:\Module2_w3resource_CSharp\02_OOP\Ex03_Shapes\obj\Debug\netcoreapp2.1\Ex03_Shapes.csprojAssemblyReference.cache
+D:\Module2_w3resource_CSharp\02_OOP\Ex03_Shapes\obj\Debug\netcoreapp2.1\Ex03_Shapes.csproj.CoreCompileInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\Ex03_Shapes\obj\Debug\netcoreapp2.1\Ex03_Shapes.AssemblyInfoInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\Ex03_Shapes\obj\Debug\netcoreapp2.1\Ex03_Shapes.AssemblyInfo.cs
+D:\Module2_w3resource_CSharp\02_OOP\Ex03_Shapes\obj\Debug\netcoreapp2.1\Ex03_Shapes.dll
+D:\Module2_w3resource_CSharp\02_OOP\Ex03_Shapes\obj\Debug\netcoreapp2.1\Ex03_Shapes.pdb

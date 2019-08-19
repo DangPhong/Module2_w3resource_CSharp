@@ -1,0 +1,11 @@
+D:\Module2_w3resource_CSharp\02_OOP\Bai17_Polygon\obj\Debug\netcoreapp2.2\Bai17_Polygon.csprojAssemblyReference.cache
+D:\Module2_w3resource_CSharp\02_OOP\Bai17_Polygon\obj\Debug\netcoreapp2.2\Bai17_Polygon.csproj.CoreCompileInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\Bai17_Polygon\obj\Debug\netcoreapp2.2\Bai17_Polygon.AssemblyInfoInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\Bai17_Polygon\obj\Debug\netcoreapp2.2\Bai17_Polygon.AssemblyInfo.cs
+D:\Module2_w3resource_CSharp\02_OOP\Bai17_Polygon\bin\Debug\netcoreapp2.2\Bai17_Polygon.deps.json
+D:\Module2_w3resource_CSharp\02_OOP\Bai17_Polygon\bin\Debug\netcoreapp2.2\Bai17_Polygon.runtimeconfig.json
+D:\Module2_w3resource_CSharp\02_OOP\Bai17_Polygon\bin\Debug\netcoreapp2.2\Bai17_Polygon.runtimeconfig.dev.json
+D:\Module2_w3resource_CSharp\02_OOP\Bai17_Polygon\bin\Debug\netcoreapp2.2\Bai17_Polygon.dll
+D:\Module2_w3resource_CSharp\02_OOP\Bai17_Polygon\bin\Debug\netcoreapp2.2\Bai17_Polygon.pdb
+D:\Module2_w3resource_CSharp\02_OOP\Bai17_Polygon\obj\Debug\netcoreapp2.2\Bai17_Polygon.dll
+D:\Module2_w3resource_CSharp\02_OOP\Bai17_Polygon\obj\Debug\netcoreapp2.2\Bai17_Polygon.pdb

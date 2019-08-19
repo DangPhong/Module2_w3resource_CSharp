@@ -49,7 +49,6 @@ namespace Roads
             Console.WriteLine("Chuyen xe noi thanh " + sum1);
             Console.WriteLine("Chuyen xe ngoai thanh " + sum2);
             Console.WriteLine("------------------------------------------");
-
         }
     }
 }

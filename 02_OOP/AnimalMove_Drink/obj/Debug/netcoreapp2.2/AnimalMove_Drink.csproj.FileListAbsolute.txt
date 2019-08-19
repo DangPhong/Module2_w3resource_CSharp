@@ -1,0 +1,11 @@
+D:\Module2_w3resource_CSharp\02_OOP\AnimalMove_Drink\bin\Debug\netcoreapp2.2\AnimalMove_Drink.deps.json
+D:\Module2_w3resource_CSharp\02_OOP\AnimalMove_Drink\bin\Debug\netcoreapp2.2\AnimalMove_Drink.runtimeconfig.json
+D:\Module2_w3resource_CSharp\02_OOP\AnimalMove_Drink\bin\Debug\netcoreapp2.2\AnimalMove_Drink.runtimeconfig.dev.json
+D:\Module2_w3resource_CSharp\02_OOP\AnimalMove_Drink\bin\Debug\netcoreapp2.2\AnimalMove_Drink.dll
+D:\Module2_w3resource_CSharp\02_OOP\AnimalMove_Drink\bin\Debug\netcoreapp2.2\AnimalMove_Drink.pdb
+D:\Module2_w3resource_CSharp\02_OOP\AnimalMove_Drink\obj\Debug\netcoreapp2.2\AnimalMove_Drink.csprojAssemblyReference.cache
+D:\Module2_w3resource_CSharp\02_OOP\AnimalMove_Drink\obj\Debug\netcoreapp2.2\AnimalMove_Drink.csproj.CoreCompileInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\AnimalMove_Drink\obj\Debug\netcoreapp2.2\AnimalMove_Drink.AssemblyInfoInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\AnimalMove_Drink\obj\Debug\netcoreapp2.2\AnimalMove_Drink.AssemblyInfo.cs
+D:\Module2_w3resource_CSharp\02_OOP\AnimalMove_Drink\obj\Debug\netcoreapp2.2\AnimalMove_Drink.dll
+D:\Module2_w3resource_CSharp\02_OOP\AnimalMove_Drink\obj\Debug\netcoreapp2.2\AnimalMove_Drink.pdb

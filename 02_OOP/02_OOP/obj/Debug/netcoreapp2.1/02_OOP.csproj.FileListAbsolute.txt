@@ -1,0 +1,11 @@
+D:\Module2_w3resource_CSharp\02_OOP\02_OOP\bin\Debug\netcoreapp2.1\02_OOP.deps.json
+D:\Module2_w3resource_CSharp\02_OOP\02_OOP\bin\Debug\netcoreapp2.1\02_OOP.runtimeconfig.json
+D:\Module2_w3resource_CSharp\02_OOP\02_OOP\bin\Debug\netcoreapp2.1\02_OOP.runtimeconfig.dev.json
+D:\Module2_w3resource_CSharp\02_OOP\02_OOP\bin\Debug\netcoreapp2.1\02_OOP.dll
+D:\Module2_w3resource_CSharp\02_OOP\02_OOP\bin\Debug\netcoreapp2.1\02_OOP.pdb
+D:\Module2_w3resource_CSharp\02_OOP\02_OOP\obj\Debug\netcoreapp2.1\02_OOP.csprojAssemblyReference.cache
+D:\Module2_w3resource_CSharp\02_OOP\02_OOP\obj\Debug\netcoreapp2.1\02_OOP.csproj.CoreCompileInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\02_OOP\obj\Debug\netcoreapp2.1\02_OOP.AssemblyInfoInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\02_OOP\obj\Debug\netcoreapp2.1\02_OOP.AssemblyInfo.cs
+D:\Module2_w3resource_CSharp\02_OOP\02_OOP\obj\Debug\netcoreapp2.1\02_OOP.dll
+D:\Module2_w3resource_CSharp\02_OOP\02_OOP\obj\Debug\netcoreapp2.1\02_OOP.pdb

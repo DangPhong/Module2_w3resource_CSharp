@@ -31,8 +31,8 @@ namespace Roads
                         dscx.output();
                         break;
                 }
-
             } while (choice != 0);
+
             Console.WriteLine();
         }
     }

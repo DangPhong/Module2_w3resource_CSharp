@@ -5,13 +5,13 @@ namespace Ex61
     //  Write a C# program to sort the integers in ascending order without moving the number -5
     public class Program
     {
-        public  void Main(string[] args)
+        public static void Main(string[] args)
         {
             int[] arr1 = { -5, 236, 120, 70, -5, -5, 698, 280 };
-            sortAscending(arr1,-5);
+            sortAscending(arr1, -5);
 
         }
-        public void sortAscending(int[] arr, int num)
+        public static void sortAscending(int[] arr, int num)
         {
             for (int i = 0; i < arr.Length; i++)
             {
@@ -19,7 +19,7 @@ namespace Ex61
                 {
                     continue;
                 }
-                for (int j = 0; j < arr.Length - 1; j++)
+                for (int j = i + 1; j < arr.Length - 1; j++)
                 {
                     if (arr[j] == num)
                     {

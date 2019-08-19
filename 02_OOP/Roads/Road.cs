@@ -11,12 +11,10 @@ namespace Roads
         private double turnover;
         private string id;
         private string name;
-
         protected string Id { get => id; set => id = value; }
         protected string Name { get => name; set => name = value; }
         protected string Number { get => number; set => number = value; }
         public double Turnover { get => turnover; set => turnover = value; }
-
         public Road()
         {
             this.Id = "";
@@ -24,7 +22,6 @@ namespace Roads
             this.Number = "";
             this.Turnover = 0;
         }
-
         public Road(string number, double turnover, string id, string name)
         {
             this.number = number;
@@ -32,7 +29,6 @@ namespace Roads
             this.id = id;
             this.name = name;
         }
-
         public virtual void input()
         {
             Console.WriteLine("Nhap ma so chuyen: ");
@@ -44,7 +40,6 @@ namespace Roads
             Console.WriteLine("Doanh thu: ");
             Turnover = int.Parse(Console.ReadLine());
         }
-
         public virtual string toString()
         {
             return "\n Ma so chuyen: " + Id + "\n Ten tai xe: " + Name +
