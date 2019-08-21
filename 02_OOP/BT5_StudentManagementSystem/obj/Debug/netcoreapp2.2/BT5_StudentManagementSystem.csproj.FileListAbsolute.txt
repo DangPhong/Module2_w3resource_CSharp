@@ -1,0 +1,11 @@
+D:\Module2_w3resource_CSharp\02_OOP\BT5_StudentManagementSystem\bin\Debug\netcoreapp2.2\BT5_StudentManagementSystem.deps.json
+D:\Module2_w3resource_CSharp\02_OOP\BT5_StudentManagementSystem\bin\Debug\netcoreapp2.2\BT5_StudentManagementSystem.runtimeconfig.json
+D:\Module2_w3resource_CSharp\02_OOP\BT5_StudentManagementSystem\bin\Debug\netcoreapp2.2\BT5_StudentManagementSystem.runtimeconfig.dev.json
+D:\Module2_w3resource_CSharp\02_OOP\BT5_StudentManagementSystem\bin\Debug\netcoreapp2.2\BT5_StudentManagementSystem.dll
+D:\Module2_w3resource_CSharp\02_OOP\BT5_StudentManagementSystem\bin\Debug\netcoreapp2.2\BT5_StudentManagementSystem.pdb
+D:\Module2_w3resource_CSharp\02_OOP\BT5_StudentManagementSystem\obj\Debug\netcoreapp2.2\BT5_StudentManagementSystem.csproj.CoreCompileInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\BT5_StudentManagementSystem\obj\Debug\netcoreapp2.2\BT5_StudentManagementSystem.AssemblyInfoInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\BT5_StudentManagementSystem\obj\Debug\netcoreapp2.2\BT5_StudentManagementSystem.AssemblyInfo.cs
+D:\Module2_w3resource_CSharp\02_OOP\BT5_StudentManagementSystem\obj\Debug\netcoreapp2.2\BT5_StudentManagementSystem.dll
+D:\Module2_w3resource_CSharp\02_OOP\BT5_StudentManagementSystem\obj\Debug\netcoreapp2.2\BT5_StudentManagementSystem.pdb
+D:\Module2_w3resource_CSharp\02_OOP\BT5_StudentManagementSystem\obj\Debug\netcoreapp2.2\BT5_StudentManagementSystem.csprojAssemblyReference.cache

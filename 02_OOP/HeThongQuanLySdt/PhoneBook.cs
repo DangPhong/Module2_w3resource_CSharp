@@ -2,44 +2,115 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Text;
-
+using HeThongQuanLySdt.Models;
 namespace HeThongQuanLySdt
 {
     class PhoneBook : Phone
     {
         // luu du lieu
-        ArrayList PhoneLists = new ArrayList();
+       public  ArrayList PhoneLists = new ArrayList();
         public override void InsertPhone(string name, string phone)
         {
-            foreach (string phoneList in PhoneLists)
+            if (PhoneLists != null && UserIsExited(name))
             {
-                if (name != phoneList || name == phoneList && phone != )
+                foreach (PhoneItem phoneItem in PhoneLists)
                 {
-                    PhoneLists.Add(phone);
+                    if (phoneItem.Name == name)
+                    {
+                        if (phoneItem.PhoneNumber != phone)
+                        {
+                            phoneItem.PhoneNumber += ":" + phone;
+                        }
+                    }
                 }
             }
+            else
+            {
+                // cach 1
+                var phoneItem = new PhoneItem();
+                phoneItem.Name = name;
+                phoneItem.PhoneNumber = phone;
+                PhoneLists.Add(phoneItem);
+            }
+            // cach 2
+            //var phone2 = new PhoneItem()
+            //{
+            //    Name = name,
+            //    PhoneNumber = phone
+            //};
+            //PhoneLists.Add(phone2);
+
+            // Cach 3
+            //PhoneLists.Add(new PhoneItem()
+            //{
+            //    Name = name,
+            //    PhoneNumber = phone
+            //});
         }
 
         public override void RemovePhone(string name)
         {
-            throw new NotImplementedException();
+            if (PhoneLists != null)
+            {
+                foreach (PhoneItem phoneItem in PhoneLists)
+                {
+                    if (phoneItem.Name == name)
+                    {
+                        PhoneLists.Remove(phoneItem);
+                        break;
+                    }
+                }
+            }
         }
 
-        public override void searchPhone(string name)
+        public override void UpdatePhone(string name, string newPhone)
         {
-            throw new NotImplementedException();
+            if (PhoneLists != null)
+            {
+                foreach (PhoneItem phoneItem in PhoneLists)
+                {
+                    if (phoneItem.Name == name)
+                    {
+                        phoneItem.PhoneNumber = newPhone;
+                    }
+                }
+            }
         }
 
-        public override void sort()
+        public override void SearchPhone(string name)
         {
-            throw new NotImplementedException();
+            if (PhoneLists != null)
+            {
+                foreach (PhoneItem phoneItem in PhoneLists)
+                {
+                    if (phoneItem.Name == name)
+                    {
+                        Console.WriteLine("Phone number's {0} is: {1}", name, phoneItem.PhoneNumber);
+                        break;
+                    }
+                }
+            }
         }
 
-        public override void updatePhone(string name, string newPhone)
+        public override void Sort()
         {
-            throw new NotImplementedException();
+            PhoneLists.Sort();
         }
 
-
+        private bool UserIsExited(string userName)
+        {
+            if (PhoneLists != null)
+            {
+                foreach (PhoneItem item in PhoneLists)
+                {
+                    if (item.Name == userName)
+                    {
+                        return true;
+                    }
+                }
+            }
+            return false;
+        }
     }
 }
+

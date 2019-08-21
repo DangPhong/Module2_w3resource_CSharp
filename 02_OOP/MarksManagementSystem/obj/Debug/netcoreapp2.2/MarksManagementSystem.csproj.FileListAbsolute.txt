@@ -1,0 +1,11 @@
+D:\Module2_w3resource_CSharp\02_OOP\MarksManagementSystem\bin\Debug\netcoreapp2.2\MarksManagementSystem.deps.json
+D:\Module2_w3resource_CSharp\02_OOP\MarksManagementSystem\bin\Debug\netcoreapp2.2\MarksManagementSystem.runtimeconfig.json
+D:\Module2_w3resource_CSharp\02_OOP\MarksManagementSystem\bin\Debug\netcoreapp2.2\MarksManagementSystem.runtimeconfig.dev.json
+D:\Module2_w3resource_CSharp\02_OOP\MarksManagementSystem\bin\Debug\netcoreapp2.2\MarksManagementSystem.dll
+D:\Module2_w3resource_CSharp\02_OOP\MarksManagementSystem\bin\Debug\netcoreapp2.2\MarksManagementSystem.pdb
+D:\Module2_w3resource_CSharp\02_OOP\MarksManagementSystem\obj\Debug\netcoreapp2.2\MarksManagementSystem.csprojAssemblyReference.cache
+D:\Module2_w3resource_CSharp\02_OOP\MarksManagementSystem\obj\Debug\netcoreapp2.2\MarksManagementSystem.csproj.CoreCompileInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\MarksManagementSystem\obj\Debug\netcoreapp2.2\MarksManagementSystem.AssemblyInfoInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\MarksManagementSystem\obj\Debug\netcoreapp2.2\MarksManagementSystem.AssemblyInfo.cs
+D:\Module2_w3resource_CSharp\02_OOP\MarksManagementSystem\obj\Debug\netcoreapp2.2\MarksManagementSystem.dll
+D:\Module2_w3resource_CSharp\02_OOP\MarksManagementSystem\obj\Debug\netcoreapp2.2\MarksManagementSystem.pdb

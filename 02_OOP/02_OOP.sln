@@ -21,7 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuanLyTinTuc", "QuanLyTinTu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai17_Polygon", "Bai17_Polygon\Bai17_Polygon.csproj", "{44864ABF-39FE-4562-A790-DA872D22B2E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalMove_Drink", "AnimalMove_Drink\AnimalMove_Drink.csproj", "{2C11A88B-CEBC-4DE8-844B-B20B557B5A02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimalMove_Drink", "AnimalMove_Drink\AnimalMove_Drink.csproj", "{2C11A88B-CEBC-4DE8-844B-B20B557B5A02}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BT2_BooksManagementSystem", "BooksManagementSystem\BT2_BooksManagementSystem.csproj", "{F02D318E-4149-4FEE-AE2B-C74018B12009}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BT4_MarksManagementSystem", "MarksManagementSystem\BT4_MarksManagementSystem.csproj", "{3DC1A02C-EED1-4A60-AD63-64984CDD5A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT5_StudentManagementSystem", "BT5_StudentManagementSystem\BT5_StudentManagementSystem.csproj", "{73B4E6A1-7195-402B-BE18-678199292026}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +75,18 @@ Global
 		{2C11A88B-CEBC-4DE8-844B-B20B557B5A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C11A88B-CEBC-4DE8-844B-B20B557B5A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C11A88B-CEBC-4DE8-844B-B20B557B5A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F02D318E-4149-4FEE-AE2B-C74018B12009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02D318E-4149-4FEE-AE2B-C74018B12009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02D318E-4149-4FEE-AE2B-C74018B12009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02D318E-4149-4FEE-AE2B-C74018B12009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC1A02C-EED1-4A60-AD63-64984CDD5A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC1A02C-EED1-4A60-AD63-64984CDD5A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC1A02C-EED1-4A60-AD63-64984CDD5A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC1A02C-EED1-4A60-AD63-64984CDD5A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B4E6A1-7195-402B-BE18-678199292026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B4E6A1-7195-402B-BE18-678199292026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B4E6A1-7195-402B-BE18-678199292026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B4E6A1-7195-402B-BE18-678199292026}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

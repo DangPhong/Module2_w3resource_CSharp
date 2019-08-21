@@ -1,0 +1,11 @@
+D:\Module2_w3resource_CSharp\02_OOP\BooksManagementSystem\bin\Debug\netcoreapp2.2\BT2_BooksManagementSystem.deps.json
+D:\Module2_w3resource_CSharp\02_OOP\BooksManagementSystem\bin\Debug\netcoreapp2.2\BT2_BooksManagementSystem.runtimeconfig.json
+D:\Module2_w3resource_CSharp\02_OOP\BooksManagementSystem\bin\Debug\netcoreapp2.2\BT2_BooksManagementSystem.runtimeconfig.dev.json
+D:\Module2_w3resource_CSharp\02_OOP\BooksManagementSystem\bin\Debug\netcoreapp2.2\BT2_BooksManagementSystem.dll
+D:\Module2_w3resource_CSharp\02_OOP\BooksManagementSystem\bin\Debug\netcoreapp2.2\BT2_BooksManagementSystem.pdb
+D:\Module2_w3resource_CSharp\02_OOP\BooksManagementSystem\obj\Debug\netcoreapp2.2\BT2_BooksManagementSystem.csprojAssemblyReference.cache
+D:\Module2_w3resource_CSharp\02_OOP\BooksManagementSystem\obj\Debug\netcoreapp2.2\BT2_BooksManagementSystem.csproj.CoreCompileInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\BooksManagementSystem\obj\Debug\netcoreapp2.2\BT2_BooksManagementSystem.AssemblyInfoInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\BooksManagementSystem\obj\Debug\netcoreapp2.2\BT2_BooksManagementSystem.AssemblyInfo.cs
+D:\Module2_w3resource_CSharp\02_OOP\BooksManagementSystem\obj\Debug\netcoreapp2.2\BT2_BooksManagementSystem.dll
+D:\Module2_w3resource_CSharp\02_OOP\BooksManagementSystem\obj\Debug\netcoreapp2.2\BT2_BooksManagementSystem.pdb
