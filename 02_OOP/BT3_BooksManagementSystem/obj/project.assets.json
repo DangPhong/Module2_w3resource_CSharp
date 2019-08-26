@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Module2_w3resource_CSharp\\02_OOP\\BooksManagementSystem\\BT3_BooksManagementSystem.csproj",
+      "projectUniqueName": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT3_BooksManagementSystem\\BT3_BooksManagementSystem.csproj",
       "projectName": "BT3_BooksManagementSystem",
-      "projectPath": "D:\\Module2_w3resource_CSharp\\02_OOP\\BooksManagementSystem\\BT3_BooksManagementSystem.csproj",
+      "projectPath": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT3_BooksManagementSystem\\BT3_BooksManagementSystem.csproj",
       "packagesPath": "C:\\Users\\dangp\\.nuget\\packages\\",
-      "outputPath": "D:\\Module2_w3resource_CSharp\\02_OOP\\BooksManagementSystem\\obj\\",
+      "outputPath": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT3_BooksManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

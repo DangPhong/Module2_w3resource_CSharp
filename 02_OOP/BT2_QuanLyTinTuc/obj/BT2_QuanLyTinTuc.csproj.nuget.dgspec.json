@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Module2_w3resource_CSharp\\02_OOP\\QuanLyTinTuc\\BT2_QuanLyTinTuc.csproj": {}
+    "D:\\Module2_w3resource_CSharp\\02_OOP\\BT2_QuanLyTinTuc\\BT2_QuanLyTinTuc.csproj": {}
   },
   "projects": {
-    "D:\\Module2_w3resource_CSharp\\02_OOP\\QuanLyTinTuc\\BT2_QuanLyTinTuc.csproj": {
+    "D:\\Module2_w3resource_CSharp\\02_OOP\\BT2_QuanLyTinTuc\\BT2_QuanLyTinTuc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Module2_w3resource_CSharp\\02_OOP\\QuanLyTinTuc\\BT2_QuanLyTinTuc.csproj",
+        "projectUniqueName": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT2_QuanLyTinTuc\\BT2_QuanLyTinTuc.csproj",
         "projectName": "BT2_QuanLyTinTuc",
-        "projectPath": "D:\\Module2_w3resource_CSharp\\02_OOP\\QuanLyTinTuc\\BT2_QuanLyTinTuc.csproj",
+        "projectPath": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT2_QuanLyTinTuc\\BT2_QuanLyTinTuc.csproj",
         "packagesPath": "C:\\Users\\dangp\\.nuget\\packages\\",
-        "outputPath": "D:\\Module2_w3resource_CSharp\\02_OOP\\QuanLyTinTuc\\obj\\",
+        "outputPath": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT2_QuanLyTinTuc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+D:\Module2_w3resource_CSharp\02_OOP\BT6_FootballManagementSystem\bin\Debug\netcoreapp2.2\BT6_FootballManagementSystem.deps.json
+D:\Module2_w3resource_CSharp\02_OOP\BT6_FootballManagementSystem\bin\Debug\netcoreapp2.2\BT6_FootballManagementSystem.runtimeconfig.json
+D:\Module2_w3resource_CSharp\02_OOP\BT6_FootballManagementSystem\bin\Debug\netcoreapp2.2\BT6_FootballManagementSystem.runtimeconfig.dev.json
+D:\Module2_w3resource_CSharp\02_OOP\BT6_FootballManagementSystem\bin\Debug\netcoreapp2.2\BT6_FootballManagementSystem.dll
+D:\Module2_w3resource_CSharp\02_OOP\BT6_FootballManagementSystem\bin\Debug\netcoreapp2.2\BT6_FootballManagementSystem.pdb
+D:\Module2_w3resource_CSharp\02_OOP\BT6_FootballManagementSystem\obj\Debug\netcoreapp2.2\BT6_FootballManagementSystem.csprojAssemblyReference.cache
+D:\Module2_w3resource_CSharp\02_OOP\BT6_FootballManagementSystem\obj\Debug\netcoreapp2.2\BT6_FootballManagementSystem.csproj.CoreCompileInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\BT6_FootballManagementSystem\obj\Debug\netcoreapp2.2\BT6_FootballManagementSystem.AssemblyInfoInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\BT6_FootballManagementSystem\obj\Debug\netcoreapp2.2\BT6_FootballManagementSystem.AssemblyInfo.cs
+D:\Module2_w3resource_CSharp\02_OOP\BT6_FootballManagementSystem\obj\Debug\netcoreapp2.2\BT6_FootballManagementSystem.dll
+D:\Module2_w3resource_CSharp\02_OOP\BT6_FootballManagementSystem\obj\Debug\netcoreapp2.2\BT6_FootballManagementSystem.pdb

@@ -1,0 +1,11 @@
+D:\Module2_w3resource_CSharp\02_OOP\BT7_ProductManagentSystem\bin\Debug\netcoreapp2.2\BT7_ProductManagentSystem.deps.json
+D:\Module2_w3resource_CSharp\02_OOP\BT7_ProductManagentSystem\bin\Debug\netcoreapp2.2\BT7_ProductManagentSystem.runtimeconfig.json
+D:\Module2_w3resource_CSharp\02_OOP\BT7_ProductManagentSystem\bin\Debug\netcoreapp2.2\BT7_ProductManagentSystem.runtimeconfig.dev.json
+D:\Module2_w3resource_CSharp\02_OOP\BT7_ProductManagentSystem\bin\Debug\netcoreapp2.2\BT7_ProductManagentSystem.dll
+D:\Module2_w3resource_CSharp\02_OOP\BT7_ProductManagentSystem\bin\Debug\netcoreapp2.2\BT7_ProductManagentSystem.pdb
+D:\Module2_w3resource_CSharp\02_OOP\BT7_ProductManagentSystem\obj\Debug\netcoreapp2.2\BT7_ProductManagentSystem.csproj.CoreCompileInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\BT7_ProductManagentSystem\obj\Debug\netcoreapp2.2\BT7_ProductManagentSystem.AssemblyInfoInputs.cache
+D:\Module2_w3resource_CSharp\02_OOP\BT7_ProductManagentSystem\obj\Debug\netcoreapp2.2\BT7_ProductManagentSystem.AssemblyInfo.cs
+D:\Module2_w3resource_CSharp\02_OOP\BT7_ProductManagentSystem\obj\Debug\netcoreapp2.2\BT7_ProductManagentSystem.dll
+D:\Module2_w3resource_CSharp\02_OOP\BT7_ProductManagentSystem\obj\Debug\netcoreapp2.2\BT7_ProductManagentSystem.pdb
+D:\Module2_w3resource_CSharp\02_OOP\BT7_ProductManagentSystem\obj\Debug\netcoreapp2.2\BT7_ProductManagentSystem.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\Unitest\bin\Debug\netcoreapp2.2\Unitest.deps.json
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\Unitest\bin\Debug\netcoreapp2.2\Unitest.runtimeconfig.json
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\Unitest\bin\Debug\netcoreapp2.2\Unitest.runtimeconfig.dev.json
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\Unitest\bin\Debug\netcoreapp2.2\Unitest.dll
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\Unitest\bin\Debug\netcoreapp2.2\Unitest.pdb
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\Unitest\obj\Debug\netcoreapp2.2\Unitest.csproj.CoreCompileInputs.cache
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\Unitest\obj\Debug\netcoreapp2.2\Unitest.AssemblyInfoInputs.cache
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\Unitest\obj\Debug\netcoreapp2.2\Unitest.AssemblyInfo.cs
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\Unitest\obj\Debug\netcoreapp2.2\Unitest.dll
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\Unitest\obj\Debug\netcoreapp2.2\Unitest.pdb

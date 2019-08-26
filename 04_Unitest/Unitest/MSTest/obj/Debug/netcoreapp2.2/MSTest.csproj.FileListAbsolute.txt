@@ -1,0 +1,17 @@
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\MSTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\MSTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\MSTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\MSTest\bin\Debug\netcoreapp2.2\MSTest.deps.json
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\MSTest\bin\Debug\netcoreapp2.2\MSTest.runtimeconfig.json
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\MSTest\bin\Debug\netcoreapp2.2\MSTest.runtimeconfig.dev.json
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\MSTest\bin\Debug\netcoreapp2.2\MSTest.dll
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\MSTest\bin\Debug\netcoreapp2.2\MSTest.pdb
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\MSTest\bin\Debug\netcoreapp2.2\Unitest.dll
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\MSTest\bin\Debug\netcoreapp2.2\Unitest.pdb
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\MSTest\obj\Debug\netcoreapp2.2\MSTest.csprojAssemblyReference.cache
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\MSTest\obj\Debug\netcoreapp2.2\MSTest.csproj.CoreCompileInputs.cache
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\MSTest\obj\Debug\netcoreapp2.2\MSTest.AssemblyInfoInputs.cache
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\MSTest\obj\Debug\netcoreapp2.2\MSTest.AssemblyInfo.cs
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\MSTest\obj\Debug\netcoreapp2.2\MSTest.csproj.CopyComplete
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\MSTest\obj\Debug\netcoreapp2.2\MSTest.dll
+D:\Module2_w3resource_CSharp\04_Unitest\Unitest\MSTest\obj\Debug\netcoreapp2.2\MSTest.pdb

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "eb7166746383724b975220be69c41f3071e81791"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Unitest/1.0.0": {
+        "dependencies": {
+          "NUnit": "2.6.4"
+        },
+        "runtime": {
+          "Unitest.dll": {}
+        }
+      },
+      "NUnit/2.6.4": {
+        "runtime": {
+          "lib/nunit.framework.dll": {
+            "assemblyVersion": "2.6.4.14350",
+            "fileVersion": "2.6.4.14350"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unitest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NUnit/2.6.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cmSPvaCMRSP0DI19FP1Liw9DyJY3E/vOY1OrVaeJBZpZFWHkmT3fB9ngGWnZX/ftvA7zJEbghEaw3Yd+u4YFAw==",
+      "path": "nunit/2.6.4",
+      "hashPath": "nunit.2.6.4.nupkg.sha512"
+    }
+  }
+}

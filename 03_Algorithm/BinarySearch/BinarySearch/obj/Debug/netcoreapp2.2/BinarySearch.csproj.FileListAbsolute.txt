@@ -1,0 +1,11 @@
+D:\Module2_w3resource_CSharp\03_Algorithm\BinarySearch\BinarySearch\bin\Debug\netcoreapp2.2\BinarySearch.deps.json
+D:\Module2_w3resource_CSharp\03_Algorithm\BinarySearch\BinarySearch\bin\Debug\netcoreapp2.2\BinarySearch.runtimeconfig.json
+D:\Module2_w3resource_CSharp\03_Algorithm\BinarySearch\BinarySearch\bin\Debug\netcoreapp2.2\BinarySearch.runtimeconfig.dev.json
+D:\Module2_w3resource_CSharp\03_Algorithm\BinarySearch\BinarySearch\bin\Debug\netcoreapp2.2\BinarySearch.dll
+D:\Module2_w3resource_CSharp\03_Algorithm\BinarySearch\BinarySearch\bin\Debug\netcoreapp2.2\BinarySearch.pdb
+D:\Module2_w3resource_CSharp\03_Algorithm\BinarySearch\BinarySearch\obj\Debug\netcoreapp2.2\BinarySearch.csprojAssemblyReference.cache
+D:\Module2_w3resource_CSharp\03_Algorithm\BinarySearch\BinarySearch\obj\Debug\netcoreapp2.2\BinarySearch.csproj.CoreCompileInputs.cache
+D:\Module2_w3resource_CSharp\03_Algorithm\BinarySearch\BinarySearch\obj\Debug\netcoreapp2.2\BinarySearch.AssemblyInfoInputs.cache
+D:\Module2_w3resource_CSharp\03_Algorithm\BinarySearch\BinarySearch\obj\Debug\netcoreapp2.2\BinarySearch.AssemblyInfo.cs
+D:\Module2_w3resource_CSharp\03_Algorithm\BinarySearch\BinarySearch\obj\Debug\netcoreapp2.2\BinarySearch.dll
+D:\Module2_w3resource_CSharp\03_Algorithm\BinarySearch\BinarySearch\obj\Debug\netcoreapp2.2\BinarySearch.pdb
