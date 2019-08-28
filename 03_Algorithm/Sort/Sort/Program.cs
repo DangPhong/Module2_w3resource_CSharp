@@ -58,14 +58,17 @@ namespace Sort
             //        }
             //    }
             //}
-            int i, j, temp;
-            for ( i = 1; i < length; i++)
+            int j, temp;
+            for (int i = 1; i < length; i++)
             {
-                j = i;
-                while (true)
+                j = i - 1;
+                temp = arr[i];
+                while (j >= 0 && temp < arr[j])
                 {
-
+                    arr[j + 1] = arr[j];
+                    j--;
                 }
+                arr[j + 1] = temp;
             }
             Console.WriteLine(String.Join(",", arr));
         }
@@ -99,8 +102,6 @@ namespace Sort
             int pivot = arr[length - 1];
             int left = arr[0];
             int right = arr[length - 2];
-
-
         }
 
         public static void Partititon(int[] arr)
@@ -117,8 +118,9 @@ namespace Sort
 
             Console.WriteLine("sau khi sx");
             //  SelectSort(array);
-            // InsertSort(array);
-            BubbleSort(array);
+            InsertSort(array);
+            // BubbleSort(array);
+
         }
     }
 }
