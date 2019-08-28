@@ -9,6 +9,5 @@ namespace BT8_UserManagementSystem_practic7_Ex1
         int ID { get; set; }
         string Name { get; set; }
         string Password { get; set; }
-       
     }
 }

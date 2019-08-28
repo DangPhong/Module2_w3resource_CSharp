@@ -6,6 +6,6 @@ namespace BT8_UserManagementSystem_practic7_Ex1
 {
     interface IUserMethod
     {
-        void DisplayInfor();
+        string DisplayInfor();
     }
 }
