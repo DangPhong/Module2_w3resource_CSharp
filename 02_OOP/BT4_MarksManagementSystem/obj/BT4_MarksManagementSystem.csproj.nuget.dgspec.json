@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Module2_w3resource_CSharp\\02_OOP\\BT4_MarksManagementSystem\\BT4_MarksManagementSystem.csproj": {}
+    "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT4_MarksManagementSystem\\BT4_MarksManagementSystem.csproj": {}
   },
   "projects": {
-    "D:\\Module2_w3resource_CSharp\\02_OOP\\BT4_MarksManagementSystem\\BT4_MarksManagementSystem.csproj": {
+    "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT4_MarksManagementSystem\\BT4_MarksManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT4_MarksManagementSystem\\BT4_MarksManagementSystem.csproj",
+        "projectUniqueName": "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT4_MarksManagementSystem\\BT4_MarksManagementSystem.csproj",
         "projectName": "BT4_MarksManagementSystem",
-        "projectPath": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT4_MarksManagementSystem\\BT4_MarksManagementSystem.csproj",
+        "projectPath": "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT4_MarksManagementSystem\\BT4_MarksManagementSystem.csproj",
         "packagesPath": "C:\\Users\\dangp\\.nuget\\packages\\",
-        "outputPath": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT4_MarksManagementSystem\\obj\\",
+        "outputPath": "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT4_MarksManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

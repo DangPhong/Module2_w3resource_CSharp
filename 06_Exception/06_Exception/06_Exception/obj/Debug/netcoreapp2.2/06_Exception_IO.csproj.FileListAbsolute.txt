@@ -1,0 +1,11 @@
+D:\Module2_Clone\Module2_w3resource_CSharp\06_Exception\06_Exception\06_Exception\bin\Debug\netcoreapp2.2\06_Exception_IO.deps.json
+D:\Module2_Clone\Module2_w3resource_CSharp\06_Exception\06_Exception\06_Exception\bin\Debug\netcoreapp2.2\06_Exception_IO.runtimeconfig.json
+D:\Module2_Clone\Module2_w3resource_CSharp\06_Exception\06_Exception\06_Exception\bin\Debug\netcoreapp2.2\06_Exception_IO.runtimeconfig.dev.json
+D:\Module2_Clone\Module2_w3resource_CSharp\06_Exception\06_Exception\06_Exception\bin\Debug\netcoreapp2.2\06_Exception_IO.dll
+D:\Module2_Clone\Module2_w3resource_CSharp\06_Exception\06_Exception\06_Exception\bin\Debug\netcoreapp2.2\06_Exception_IO.pdb
+D:\Module2_Clone\Module2_w3resource_CSharp\06_Exception\06_Exception\06_Exception\obj\Debug\netcoreapp2.2\06_Exception_IO.csprojAssemblyReference.cache
+D:\Module2_Clone\Module2_w3resource_CSharp\06_Exception\06_Exception\06_Exception\obj\Debug\netcoreapp2.2\06_Exception_IO.csproj.CoreCompileInputs.cache
+D:\Module2_Clone\Module2_w3resource_CSharp\06_Exception\06_Exception\06_Exception\obj\Debug\netcoreapp2.2\06_Exception_IO.AssemblyInfoInputs.cache
+D:\Module2_Clone\Module2_w3resource_CSharp\06_Exception\06_Exception\06_Exception\obj\Debug\netcoreapp2.2\06_Exception_IO.AssemblyInfo.cs
+D:\Module2_Clone\Module2_w3resource_CSharp\06_Exception\06_Exception\06_Exception\obj\Debug\netcoreapp2.2\06_Exception_IO.dll
+D:\Module2_Clone\Module2_w3resource_CSharp\06_Exception\06_Exception\06_Exception\obj\Debug\netcoreapp2.2\06_Exception_IO.pdb

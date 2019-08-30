@@ -1,0 +1,2 @@
+tong gia tri: 20
+cac so chan: 2 2 6 sap xep mang tang dan: 

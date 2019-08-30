@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Module2_w3resource_CSharp\\02_OOP\\BT7_ProductManagentSystem\\BT7_ProductManagentSystem.csproj": {}
+    "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT7_ProductManagentSystem\\BT7_ProductManagentSystem.csproj": {}
   },
   "projects": {
-    "D:\\Module2_w3resource_CSharp\\02_OOP\\BT7_ProductManagentSystem\\BT7_ProductManagentSystem.csproj": {
+    "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT7_ProductManagentSystem\\BT7_ProductManagentSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT7_ProductManagentSystem\\BT7_ProductManagentSystem.csproj",
+        "projectUniqueName": "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT7_ProductManagentSystem\\BT7_ProductManagentSystem.csproj",
         "projectName": "BT7_ProductManagentSystem",
-        "projectPath": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT7_ProductManagentSystem\\BT7_ProductManagentSystem.csproj",
+        "projectPath": "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT7_ProductManagentSystem\\BT7_ProductManagentSystem.csproj",
         "packagesPath": "C:\\Users\\dangp\\.nuget\\packages\\",
-        "outputPath": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT7_ProductManagentSystem\\obj\\",
+        "outputPath": "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT7_ProductManagentSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

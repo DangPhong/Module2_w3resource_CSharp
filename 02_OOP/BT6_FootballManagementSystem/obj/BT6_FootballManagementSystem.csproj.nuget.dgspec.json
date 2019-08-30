@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Module2_w3resource_CSharp\\02_OOP\\BT6_FootballManagementSystem\\BT6_FootballManagementSystem.csproj": {}
+    "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT6_FootballManagementSystem\\BT6_FootballManagementSystem.csproj": {}
   },
   "projects": {
-    "D:\\Module2_w3resource_CSharp\\02_OOP\\BT6_FootballManagementSystem\\BT6_FootballManagementSystem.csproj": {
+    "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT6_FootballManagementSystem\\BT6_FootballManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT6_FootballManagementSystem\\BT6_FootballManagementSystem.csproj",
+        "projectUniqueName": "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT6_FootballManagementSystem\\BT6_FootballManagementSystem.csproj",
         "projectName": "BT6_FootballManagementSystem",
-        "projectPath": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT6_FootballManagementSystem\\BT6_FootballManagementSystem.csproj",
+        "projectPath": "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT6_FootballManagementSystem\\BT6_FootballManagementSystem.csproj",
         "packagesPath": "C:\\Users\\dangp\\.nuget\\packages\\",
-        "outputPath": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT6_FootballManagementSystem\\obj\\",
+        "outputPath": "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT6_FootballManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

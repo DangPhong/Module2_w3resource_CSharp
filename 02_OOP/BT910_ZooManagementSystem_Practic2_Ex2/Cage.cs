@@ -10,7 +10,7 @@ namespace BT910_ZooManagementSystem_Practic2_Ex2
         public int CageNumber { get; set; }
         public ArrayList AnimalList { get; set; }
 
-        Animal animal = new Animal();
+      //  Animal animal = new Animal();
         public void AddAnimal(Animal animal)
         {
             AnimalList.Add(animal);

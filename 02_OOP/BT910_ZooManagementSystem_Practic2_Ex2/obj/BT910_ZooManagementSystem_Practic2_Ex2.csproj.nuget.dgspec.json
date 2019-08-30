@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Module2_w3resource_CSharp\\02_OOP\\BT910_ZooManagementSystem_Practic2_Ex2\\BT910_ZooManagementSystem_Practic2_Ex2.csproj": {}
+    "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT910_ZooManagementSystem_Practic2_Ex2\\BT910_ZooManagementSystem_Practic2_Ex2.csproj": {}
   },
   "projects": {
-    "D:\\Module2_w3resource_CSharp\\02_OOP\\BT910_ZooManagementSystem_Practic2_Ex2\\BT910_ZooManagementSystem_Practic2_Ex2.csproj": {
+    "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT910_ZooManagementSystem_Practic2_Ex2\\BT910_ZooManagementSystem_Practic2_Ex2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT910_ZooManagementSystem_Practic2_Ex2\\BT910_ZooManagementSystem_Practic2_Ex2.csproj",
+        "projectUniqueName": "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT910_ZooManagementSystem_Practic2_Ex2\\BT910_ZooManagementSystem_Practic2_Ex2.csproj",
         "projectName": "BT910_ZooManagementSystem_Practic2_Ex2",
-        "projectPath": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT910_ZooManagementSystem_Practic2_Ex2\\BT910_ZooManagementSystem_Practic2_Ex2.csproj",
+        "projectPath": "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT910_ZooManagementSystem_Practic2_Ex2\\BT910_ZooManagementSystem_Practic2_Ex2.csproj",
         "packagesPath": "C:\\Users\\dangp\\.nuget\\packages\\",
-        "outputPath": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT910_ZooManagementSystem_Practic2_Ex2\\obj\\",
+        "outputPath": "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT910_ZooManagementSystem_Practic2_Ex2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

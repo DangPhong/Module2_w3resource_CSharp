@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT9_FarmManagementSystem\\BT9_FarmManagementSystem.csproj",
+      "projectUniqueName": "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT9_FarmManagementSystem\\BT9_FarmManagementSystem.csproj",
       "projectName": "BT9_FarmManagementSystem",
-      "projectPath": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT9_FarmManagementSystem\\BT9_FarmManagementSystem.csproj",
+      "projectPath": "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT9_FarmManagementSystem\\BT9_FarmManagementSystem.csproj",
       "packagesPath": "C:\\Users\\dangp\\.nuget\\packages\\",
-      "outputPath": "D:\\Module2_w3resource_CSharp\\02_OOP\\BT9_FarmManagementSystem\\obj\\",
+      "outputPath": "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT9_FarmManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
