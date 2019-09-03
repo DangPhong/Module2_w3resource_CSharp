@@ -9,3 +9,14 @@ D:\Module2_w3resource_CSharp\02_OOP\BT1_HeThongQuanLySdt\obj\Debug\netcoreapp2.2
 D:\Module2_w3resource_CSharp\02_OOP\BT1_HeThongQuanLySdt\obj\Debug\netcoreapp2.2\BT1_HeThongQuanLySdt.dll
 D:\Module2_w3resource_CSharp\02_OOP\BT1_HeThongQuanLySdt\obj\Debug\netcoreapp2.2\BT1_HeThongQuanLySdt.pdb
 D:\Module2_w3resource_CSharp\02_OOP\BT1_HeThongQuanLySdt\obj\Debug\netcoreapp2.2\BT1_HeThongQuanLySdt.csprojAssemblyReference.cache
+C:\Module2_w3resource_CSharp\02_OOP\BT1_HeThongQuanLySdt\bin\Debug\netcoreapp2.2\BT1_HeThongQuanLySdt.deps.json
+C:\Module2_w3resource_CSharp\02_OOP\BT1_HeThongQuanLySdt\bin\Debug\netcoreapp2.2\BT1_HeThongQuanLySdt.runtimeconfig.json
+C:\Module2_w3resource_CSharp\02_OOP\BT1_HeThongQuanLySdt\bin\Debug\netcoreapp2.2\BT1_HeThongQuanLySdt.runtimeconfig.dev.json
+C:\Module2_w3resource_CSharp\02_OOP\BT1_HeThongQuanLySdt\bin\Debug\netcoreapp2.2\BT1_HeThongQuanLySdt.dll
+C:\Module2_w3resource_CSharp\02_OOP\BT1_HeThongQuanLySdt\bin\Debug\netcoreapp2.2\BT1_HeThongQuanLySdt.pdb
+C:\Module2_w3resource_CSharp\02_OOP\BT1_HeThongQuanLySdt\obj\Debug\netcoreapp2.2\BT1_HeThongQuanLySdt.csprojAssemblyReference.cache
+C:\Module2_w3resource_CSharp\02_OOP\BT1_HeThongQuanLySdt\obj\Debug\netcoreapp2.2\BT1_HeThongQuanLySdt.csproj.CoreCompileInputs.cache
+C:\Module2_w3resource_CSharp\02_OOP\BT1_HeThongQuanLySdt\obj\Debug\netcoreapp2.2\BT1_HeThongQuanLySdt.AssemblyInfoInputs.cache
+C:\Module2_w3resource_CSharp\02_OOP\BT1_HeThongQuanLySdt\obj\Debug\netcoreapp2.2\BT1_HeThongQuanLySdt.AssemblyInfo.cs
+C:\Module2_w3resource_CSharp\02_OOP\BT1_HeThongQuanLySdt\obj\Debug\netcoreapp2.2\BT1_HeThongQuanLySdt.dll
+C:\Module2_w3resource_CSharp\02_OOP\BT1_HeThongQuanLySdt\obj\Debug\netcoreapp2.2\BT1_HeThongQuanLySdt.pdb

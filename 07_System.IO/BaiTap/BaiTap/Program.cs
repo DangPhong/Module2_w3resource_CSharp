@@ -81,15 +81,12 @@ namespace BaiTap
                         }
                         for (int i = 0; i < arrayNum.Length; i++)
                         {
-                            Console.Write(arrayNum[i] +" " );
+                            Console.Write(arrayNum[i] + " ");
                         }
 
                     }
                 }
             }
-
-
-
         }
 
         public static void Swap(ref int a, ref int b)

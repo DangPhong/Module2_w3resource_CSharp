@@ -9,3 +9,14 @@ D:\Module2_Clone\Module2_w3resource_CSharp\07_System.IO\BaiTap\BaiTap\obj\Debug\
 D:\Module2_Clone\Module2_w3resource_CSharp\07_System.IO\BaiTap\BaiTap\obj\Debug\netcoreapp2.2\BaiTap.AssemblyInfo.cs
 D:\Module2_Clone\Module2_w3resource_CSharp\07_System.IO\BaiTap\BaiTap\obj\Debug\netcoreapp2.2\BaiTap.dll
 D:\Module2_Clone\Module2_w3resource_CSharp\07_System.IO\BaiTap\BaiTap\obj\Debug\netcoreapp2.2\BaiTap.pdb
+C:\Module2_w3resource_CSharp\07_System.IO\BaiTap\BaiTap\bin\Debug\netcoreapp2.2\BaiTap.deps.json
+C:\Module2_w3resource_CSharp\07_System.IO\BaiTap\BaiTap\bin\Debug\netcoreapp2.2\BaiTap.runtimeconfig.json
+C:\Module2_w3resource_CSharp\07_System.IO\BaiTap\BaiTap\bin\Debug\netcoreapp2.2\BaiTap.runtimeconfig.dev.json
+C:\Module2_w3resource_CSharp\07_System.IO\BaiTap\BaiTap\bin\Debug\netcoreapp2.2\BaiTap.dll
+C:\Module2_w3resource_CSharp\07_System.IO\BaiTap\BaiTap\bin\Debug\netcoreapp2.2\BaiTap.pdb
+C:\Module2_w3resource_CSharp\07_System.IO\BaiTap\BaiTap\obj\Debug\netcoreapp2.2\BaiTap.csprojAssemblyReference.cache
+C:\Module2_w3resource_CSharp\07_System.IO\BaiTap\BaiTap\obj\Debug\netcoreapp2.2\BaiTap.csproj.CoreCompileInputs.cache
+C:\Module2_w3resource_CSharp\07_System.IO\BaiTap\BaiTap\obj\Debug\netcoreapp2.2\BaiTap.AssemblyInfoInputs.cache
+C:\Module2_w3resource_CSharp\07_System.IO\BaiTap\BaiTap\obj\Debug\netcoreapp2.2\BaiTap.AssemblyInfo.cs
+C:\Module2_w3resource_CSharp\07_System.IO\BaiTap\BaiTap\obj\Debug\netcoreapp2.2\BaiTap.dll
+C:\Module2_w3resource_CSharp\07_System.IO\BaiTap\BaiTap\obj\Debug\netcoreapp2.2\BaiTap.pdb

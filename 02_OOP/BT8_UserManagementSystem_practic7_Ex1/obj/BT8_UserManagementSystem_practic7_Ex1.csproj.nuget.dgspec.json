@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT8_UserManagementSystem_practic7_Ex1\\BT8_UserManagementSystem_practic7_Ex1.csproj": {}
+    "C:\\Module2_w3resource_CSharp\\02_OOP\\BT8_UserManagementSystem_practic7_Ex1\\BT8_UserManagementSystem_practic7_Ex1.csproj": {}
   },
   "projects": {
-    "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT8_UserManagementSystem_practic7_Ex1\\BT8_UserManagementSystem_practic7_Ex1.csproj": {
+    "C:\\Module2_w3resource_CSharp\\02_OOP\\BT8_UserManagementSystem_practic7_Ex1\\BT8_UserManagementSystem_practic7_Ex1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT8_UserManagementSystem_practic7_Ex1\\BT8_UserManagementSystem_practic7_Ex1.csproj",
+        "projectUniqueName": "C:\\Module2_w3resource_CSharp\\02_OOP\\BT8_UserManagementSystem_practic7_Ex1\\BT8_UserManagementSystem_practic7_Ex1.csproj",
         "projectName": "BT8_UserManagementSystem_practic7_Ex1",
-        "projectPath": "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT8_UserManagementSystem_practic7_Ex1\\BT8_UserManagementSystem_practic7_Ex1.csproj",
+        "projectPath": "C:\\Module2_w3resource_CSharp\\02_OOP\\BT8_UserManagementSystem_practic7_Ex1\\BT8_UserManagementSystem_practic7_Ex1.csproj",
         "packagesPath": "C:\\Users\\dangp\\.nuget\\packages\\",
-        "outputPath": "D:\\Module2_Clone\\Module2_w3resource_CSharp\\02_OOP\\BT8_UserManagementSystem_practic7_Ex1\\obj\\",
+        "outputPath": "C:\\Module2_w3resource_CSharp\\02_OOP\\BT8_UserManagementSystem_practic7_Ex1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
