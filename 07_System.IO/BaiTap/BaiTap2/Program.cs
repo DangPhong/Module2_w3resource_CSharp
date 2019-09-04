@@ -25,12 +25,61 @@ namespace BaiTap2
             }
         }
 
-        public static void ReadFile()
+        public static void WriterFileOut(string s)
         {
+            using (StreamWriter sw = new StreamWriter(outputFile, true))
+            {
+                sw.WriteLine(s);
+            }
+        }
+
+
+
+        //public static void ReadFile()
+        //{
+        //    using (StreamReader sr = new StreamReader(inputFile))
+        //    {
+        //       // n = 3;
+        //        //int[,] newArr = new int[n, n];
+
+        //        // bỏ qua hàng đầu
+        //        int index = 0;
+        //        string line;
+        //        using (StreamWriter sw = new StreamWriter(outputFile))
+        //        {
+        //            while ((line = sr.ReadLine()) != null)
+        //            {
+        //                if (index == 0)
+        //                {
+        //                    index++;
+        //                    continue;
+        //                }
+
+        //                var arrNum = line.Trim().Split(" ");
+        //                for (int i = 0; i < arrNum.Length; i++)
+        //                {
+        //                    newArr[index - 1, i] = Convert.ToInt32(arrNum[i]);
+        //                }
+        //                index++;
+        //            }
+        //        }
+        //        //doc mang newarr
+        //        //for (int i = 0; i < newArr.GetLength(0); i++)
+        //        //{
+        //        //    for (int j = 0; j < newArr.GetLength(1); j++)
+        //        //    {
+        //        //        Console.Write(newArr[i,j] + " ");
+        //        //    }
+        //        //    Console.WriteLine();
+        //        //}
+        //    }
+        //}
+
+        public static int[,] ReadFile()
+        {
+            int[,] newArr = new int[n, n];
             using (StreamReader sr = new StreamReader(inputFile))
             {
-                int[,] newArr = new int[n, n];
-
                 // bỏ qua hàng đầu
                 int index = 0;
                 string line;
@@ -43,26 +92,47 @@ namespace BaiTap2
                             index++;
                             continue;
                         }
+
                         var arrNum = line.Trim().Split(" ");
                         for (int i = 0; i < arrNum.Length; i++)
                         {
-
-                            if (isPrime(int.Parse(arrNum[i])))
-                            {
-                                sw.Write(arrNum[i] + " ");
-                            }
+                            newArr[index - 1, i] = Convert.ToInt32(arrNum[i]);
                         }
+                        index++;
                     }
                 }
             }
+            return newArr;
         }
 
-        public static void GetSumMainCross(int[,] arr)
+        //Doc mang
+        public static void ReadArr(int[,] arr)
         {
-
+            for (int i = 0; i < arr.GetLength(0); i++)
+            {
+                for (int j = 0; j < arr.GetLength(1); j++)
+                {
+                    Console.Write(arr[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
         }
 
-        public static void GetSumSecondCross()
+        // tinh duong cheo chinh
+        public static int GetSumMainCross(int[,] arr)
+        {
+            int sum = 0;
+            var m = arr.GetLength(1);
+            for (int i = 0; i < m; i++)
+            {
+                sum += arr[i, i];
+            }
+            Console.WriteLine(sum);
+            return sum;
+        }
+
+        //tinh duong cheo phu
+        public static int GetSumSecondCross(int[,] arr)
         {
             int sum = 0;
             var m = arr.GetLength(1);
@@ -71,8 +141,42 @@ namespace BaiTap2
                 sum += arr[i, m - 1 - i];
             }
             Console.WriteLine(sum);
+            return sum;
         }
 
+        // dem cac so nguyen to
+        public static int CountPrime(int[,] arr)
+        {
+            int dem = 0;
+            for (int i = 0; i < arr.GetLength(0); i++)
+            {
+                for (int j = 0; j < arr.GetLength(1); j++)
+                {
+                    if (isPrime(arr[i,j]))
+                    {
+                        dem++;
+                    }
+                }
+            }
+            return dem;
+        }
+
+        // dem cac so chan 
+        public static int CountEven(int[,] arr)
+        {
+            int dem = 0;
+            for (int i = 0; i < arr.GetLength(0); i++)
+            {
+                for (int j = 0; j < arr.GetLength(1); j++)
+                {
+                    if (arr[i,j]% 2 ==0)
+                    {
+                        dem++;
+                    }
+                }
+            }
+            return dem;
+        }
         static void inputArr()
         {
             Console.Write("input n: ");
@@ -88,6 +192,7 @@ namespace BaiTap2
             }
         }
 
+        // kiem tra so nguyen to
         static bool isPrime(int num)
         {
             bool check = true;
@@ -108,12 +213,15 @@ namespace BaiTap2
         static void Main(string[] args)
         {
             inputArr();
-
             WriterFile();
-            ReadFile();
+            int[,] arrq = ReadFile();
+            ReadArr(arrq);
+            
+            WriterFileOut("Tong duong cheo chinh: " + GetSumMainCross(arrq));
+            WriterFileOut("Tong duong cheo phu: " + GetSumSecondCross(arrq));
+            WriterFileOut("Có "+ CountEven(arrq) +" so chan.");
+            WriterFileOut("Có " + CountPrime(arrq) + " so nguyen to.");
 
-           // GetSumSecondCross();
-          //  Console.WriteLine(isPrime(4));
         }
     }
 }

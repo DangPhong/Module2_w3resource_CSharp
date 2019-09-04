@@ -1,1 +1,4 @@
-11 2 2 3 5 3 
+Tong duong cheo chinh: 9
+Tong duong cheo phu: 11
+Có 5 so chan.
+Có 6 so nguyen to.
