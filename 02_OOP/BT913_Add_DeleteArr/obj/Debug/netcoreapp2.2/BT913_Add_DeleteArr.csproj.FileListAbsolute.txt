@@ -1,0 +1,11 @@
+C:\Module2_w3resource_CSharp\02_OOP\BT913_Add_DeleteArr\bin\Debug\netcoreapp2.2\BT913_Add_DeleteArr.deps.json
+C:\Module2_w3resource_CSharp\02_OOP\BT913_Add_DeleteArr\bin\Debug\netcoreapp2.2\BT913_Add_DeleteArr.runtimeconfig.json
+C:\Module2_w3resource_CSharp\02_OOP\BT913_Add_DeleteArr\bin\Debug\netcoreapp2.2\BT913_Add_DeleteArr.runtimeconfig.dev.json
+C:\Module2_w3resource_CSharp\02_OOP\BT913_Add_DeleteArr\bin\Debug\netcoreapp2.2\BT913_Add_DeleteArr.dll
+C:\Module2_w3resource_CSharp\02_OOP\BT913_Add_DeleteArr\bin\Debug\netcoreapp2.2\BT913_Add_DeleteArr.pdb
+C:\Module2_w3resource_CSharp\02_OOP\BT913_Add_DeleteArr\obj\Debug\netcoreapp2.2\BT913_Add_DeleteArr.csprojAssemblyReference.cache
+C:\Module2_w3resource_CSharp\02_OOP\BT913_Add_DeleteArr\obj\Debug\netcoreapp2.2\BT913_Add_DeleteArr.csproj.CoreCompileInputs.cache
+C:\Module2_w3resource_CSharp\02_OOP\BT913_Add_DeleteArr\obj\Debug\netcoreapp2.2\BT913_Add_DeleteArr.AssemblyInfoInputs.cache
+C:\Module2_w3resource_CSharp\02_OOP\BT913_Add_DeleteArr\obj\Debug\netcoreapp2.2\BT913_Add_DeleteArr.AssemblyInfo.cs
+C:\Module2_w3resource_CSharp\02_OOP\BT913_Add_DeleteArr\obj\Debug\netcoreapp2.2\BT913_Add_DeleteArr.dll
+C:\Module2_w3resource_CSharp\02_OOP\BT913_Add_DeleteArr\obj\Debug\netcoreapp2.2\BT913_Add_DeleteArr.pdb

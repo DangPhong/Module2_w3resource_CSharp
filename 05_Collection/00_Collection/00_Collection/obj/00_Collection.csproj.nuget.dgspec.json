@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Module2_w3resource_CSharp\\05_Collection\\00_Collection\\00_Collection\\00_Collection.csproj": {}
+    "C:\\Module2_w3resource_CSharp\\05_Collection\\00_Collection\\00_Collection\\00_Collection.csproj": {}
   },
   "projects": {
-    "D:\\Module2_w3resource_CSharp\\05_Collection\\00_Collection\\00_Collection\\00_Collection.csproj": {
+    "C:\\Module2_w3resource_CSharp\\05_Collection\\00_Collection\\00_Collection\\00_Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Module2_w3resource_CSharp\\05_Collection\\00_Collection\\00_Collection\\00_Collection.csproj",
+        "projectUniqueName": "C:\\Module2_w3resource_CSharp\\05_Collection\\00_Collection\\00_Collection\\00_Collection.csproj",
         "projectName": "00_Collection",
-        "projectPath": "D:\\Module2_w3resource_CSharp\\05_Collection\\00_Collection\\00_Collection\\00_Collection.csproj",
+        "projectPath": "C:\\Module2_w3resource_CSharp\\05_Collection\\00_Collection\\00_Collection\\00_Collection.csproj",
         "packagesPath": "C:\\Users\\dangp\\.nuget\\packages\\",
-        "outputPath": "D:\\Module2_w3resource_CSharp\\05_Collection\\00_Collection\\00_Collection\\obj\\",
+        "outputPath": "C:\\Module2_w3resource_CSharp\\05_Collection\\00_Collection\\00_Collection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

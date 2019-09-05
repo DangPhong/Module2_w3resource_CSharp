@@ -1,0 +1,11 @@
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Cau1\bin\Debug\netcoreapp2.2\Cau1.deps.json
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Cau1\bin\Debug\netcoreapp2.2\Cau1.runtimeconfig.json
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Cau1\bin\Debug\netcoreapp2.2\Cau1.runtimeconfig.dev.json
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Cau1\bin\Debug\netcoreapp2.2\Cau1.dll
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Cau1\bin\Debug\netcoreapp2.2\Cau1.pdb
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Cau1\obj\Debug\netcoreapp2.2\Cau1.csproj.CoreCompileInputs.cache
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Cau1\obj\Debug\netcoreapp2.2\Cau1.AssemblyInfoInputs.cache
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Cau1\obj\Debug\netcoreapp2.2\Cau1.AssemblyInfo.cs
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Cau1\obj\Debug\netcoreapp2.2\Cau1.dll
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Cau1\obj\Debug\netcoreapp2.2\Cau1.pdb
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Cau1\obj\Debug\netcoreapp2.2\Cau1.csprojAssemblyReference.cache

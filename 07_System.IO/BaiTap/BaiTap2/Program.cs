@@ -34,47 +34,6 @@ namespace BaiTap2
         }
 
 
-
-        //public static void ReadFile()
-        //{
-        //    using (StreamReader sr = new StreamReader(inputFile))
-        //    {
-        //       // n = 3;
-        //        //int[,] newArr = new int[n, n];
-
-        //        // bỏ qua hàng đầu
-        //        int index = 0;
-        //        string line;
-        //        using (StreamWriter sw = new StreamWriter(outputFile))
-        //        {
-        //            while ((line = sr.ReadLine()) != null)
-        //            {
-        //                if (index == 0)
-        //                {
-        //                    index++;
-        //                    continue;
-        //                }
-
-        //                var arrNum = line.Trim().Split(" ");
-        //                for (int i = 0; i < arrNum.Length; i++)
-        //                {
-        //                    newArr[index - 1, i] = Convert.ToInt32(arrNum[i]);
-        //                }
-        //                index++;
-        //            }
-        //        }
-        //        //doc mang newarr
-        //        //for (int i = 0; i < newArr.GetLength(0); i++)
-        //        //{
-        //        //    for (int j = 0; j < newArr.GetLength(1); j++)
-        //        //    {
-        //        //        Console.Write(newArr[i,j] + " ");
-        //        //    }
-        //        //    Console.WriteLine();
-        //        //}
-        //    }
-        //}
-
         public static int[,] ReadFile()
         {
             int[,] newArr = new int[n, n];
@@ -221,7 +180,6 @@ namespace BaiTap2
             WriterFileOut("Tong duong cheo phu: " + GetSumSecondCross(arrq));
             WriterFileOut("Có "+ CountEven(arrq) +" so chan.");
             WriterFileOut("Có " + CountPrime(arrq) + " so nguyen to.");
-
         }
     }
 }

@@ -1,0 +1,11 @@
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Exam\bin\Debug\netcoreapp2.2\Exam.deps.json
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Exam\bin\Debug\netcoreapp2.2\Exam.runtimeconfig.json
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Exam\bin\Debug\netcoreapp2.2\Exam.runtimeconfig.dev.json
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Exam\bin\Debug\netcoreapp2.2\Exam.dll
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Exam\bin\Debug\netcoreapp2.2\Exam.pdb
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Exam\obj\Debug\netcoreapp2.2\Exam.csprojAssemblyReference.cache
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Exam\obj\Debug\netcoreapp2.2\Exam.csproj.CoreCompileInputs.cache
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Exam\obj\Debug\netcoreapp2.2\Exam.AssemblyInfoInputs.cache
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Exam\obj\Debug\netcoreapp2.2\Exam.AssemblyInfo.cs
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Exam\obj\Debug\netcoreapp2.2\Exam.dll
+C:\Module2_w3resource_CSharp\08_Exam\Exam\Exam\obj\Debug\netcoreapp2.2\Exam.pdb
