@@ -26,8 +26,7 @@ namespace Cau3
             {
                 sum += Rates[i];
             }
-            averageRate = sum / length;
-            Console.WriteLine(averageRate);
+            averageRate = (float)sum / length;
             return averageRate;
         }
 
