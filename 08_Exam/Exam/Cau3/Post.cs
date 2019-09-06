@@ -18,7 +18,7 @@ namespace Cau3
         public float AverageRate { get => averageRate; }
         public int[] Rates { get => rates; set => rates = value; }
 
-        public float CalculatorRate()
+        public void CalculatorRate()
         {
             int length = Rates.Length;
             int sum = 0;
@@ -27,7 +27,7 @@ namespace Cau3
                 sum += Rates[i];
             }
             averageRate = (float)sum / length;
-            return averageRate;
+            //return averageRate;
         }
 
         public string Display()

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Module2_w3resource_CSharp\\02_OOP\\BT2_QuanLyTinTuc\\BT2_QuanLyTinTuc.csproj",
-    "projectName": "BT2_QuanLyTinTuc",
-    "projectPath": "C:\\Module2_w3resource_CSharp\\02_OOP\\BT2_QuanLyTinTuc\\BT2_QuanLyTinTuc.csproj",
-    "outputPath": "C:\\Module2_w3resource_CSharp\\02_OOP\\BT2_QuanLyTinTuc\\obj\\",
+    "projectUniqueName": "C:\\Module2_w3resource_CSharp\\02_OOP\\BT6_FootballManagementSystem\\BT6_FootballManagementSystem.csproj",
+    "projectName": "BT6_FootballManagementSystem",
+    "projectPath": "C:\\Module2_w3resource_CSharp\\02_OOP\\BT6_FootballManagementSystem\\BT6_FootballManagementSystem.csproj",
+    "outputPath": "C:\\Module2_w3resource_CSharp\\02_OOP\\BT6_FootballManagementSystem\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -10,4 +10,5 @@
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=72EC881A_002DC709_002D4AE5_002D97CE_002D85D295F556A0_002Ff_003APhone_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=72EC881A_002DC709_002D4AE5_002D97CE_002D85D295F556A0_002Ff_003AProgram_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=BACF05FE_002D3EC6_002D4565_002D9764_002D874DC96DB9A3_002Ff_003ANews_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
-	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=BACF05FE_002D3EC6_002D4565_002D9764_002D874DC96DB9A3_002Ff_003AProgram_002Ecs/@EntryIndexedValue">ForceIncluded</s:String></wpf:ResourceDictionary>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=BACF05FE_002D3EC6_002D4565_002D9764_002D874DC96DB9A3_002Ff_003AProgram_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=C765129B_002D95F5_002D46C1_002DA1EE_002DB574ED1243B8_002Ff_003APlayer_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String></wpf:ResourceDictionary>

@@ -50,7 +50,7 @@ namespace BT6_FootballManagementSystem
             {
                 if (0 < value && 100 > value)
                 {
-                    stamina = value;
+                    stamina = value; 
                 }
             }
         }

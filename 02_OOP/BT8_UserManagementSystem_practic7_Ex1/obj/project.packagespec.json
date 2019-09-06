@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Module2_w3resource_CSharp\\02_OOP\\BT2_QuanLyTinTuc\\BT2_QuanLyTinTuc.csproj",
-    "projectName": "BT2_QuanLyTinTuc",
-    "projectPath": "C:\\Module2_w3resource_CSharp\\02_OOP\\BT2_QuanLyTinTuc\\BT2_QuanLyTinTuc.csproj",
-    "outputPath": "C:\\Module2_w3resource_CSharp\\02_OOP\\BT2_QuanLyTinTuc\\obj\\",
+    "projectUniqueName": "C:\\Module2_w3resource_CSharp\\02_OOP\\BT8_UserManagementSystem_practic7_Ex1\\BT8_UserManagementSystem_practic7_Ex1.csproj",
+    "projectName": "BT8_UserManagementSystem_practic7_Ex1",
+    "projectPath": "C:\\Module2_w3resource_CSharp\\02_OOP\\BT8_UserManagementSystem_practic7_Ex1\\BT8_UserManagementSystem_practic7_Ex1.csproj",
+    "outputPath": "C:\\Module2_w3resource_CSharp\\02_OOP\\BT8_UserManagementSystem_practic7_Ex1\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,18 +1,19 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/media/dangphong/LUUTRU/Module2_w3resource_CSharp/02_OOP/HeThongQuanLySdt/HeThongQuanLySdt.csproj",
-    "projectName": "HeThongQuanLySdt",
-    "projectPath": "/media/dangphong/LUUTRU/Module2_w3resource_CSharp/02_OOP/HeThongQuanLySdt/HeThongQuanLySdt.csproj",
-    "outputPath": "/media/dangphong/LUUTRU/Module2_w3resource_CSharp/02_OOP/HeThongQuanLySdt/obj/",
+    "projectUniqueName": "C:\\Module2_w3resource_CSharp\\02_OOP\\BT1_HeThongQuanLySdt\\BT1_HeThongQuanLySdt.csproj",
+    "projectName": "BT1_HeThongQuanLySdt",
+    "projectPath": "C:\\Module2_w3resource_CSharp\\02_OOP\\BT1_HeThongQuanLySdt\\BT1_HeThongQuanLySdt.csproj",
+    "outputPath": "C:\\Module2_w3resource_CSharp\\02_OOP\\BT1_HeThongQuanLySdt\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
     "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {

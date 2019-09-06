@@ -4,30 +4,38 @@ namespace Cau1
 {
     class Program
     {
-        public static void InitMatrix(int[,] arr, int n, int m)
+        public static int[][] matrix;
+
+        public static void InitMatrix()
         {
-
+            Console.Write("n: ");
+            var n = int.Parse(Console.ReadLine());
+            Console.Write("m: ");
+            var m = int.Parse(Console.ReadLine());
+            matrix = new int[n][];
             for (int i = 0; i < n; i++)
             {
+                matrix[i] = new int[m];
                 for (int j = 0; j < m; j++)
                 {
-                    Console.Write("nhap phan tu [{0}][{1}]= ", i, j);
-                    arr[i, j] = int.Parse(Console.ReadLine());
+                    Console.Write("A[{0}][{1}]= ", i, j);
+                    matrix[i][j] = int.Parse(Console.ReadLine());
                 }
             }
-
-            Console.WriteLine("Mang da nhap: ");
-            for (int i = 0; i < n; i++)
-            {
-                for (int j = 0; j < m; j++)
-                {
-                    Console.Write(arr[i, j] + " ");
-                }
-                Console.WriteLine();
-            }
-
         }
 
+        public static void DisplayArr()
+        {
+            for (int i = 0; i < matrix.Length; i++)
+            {
+                for (int j = 0; j < matrix[i].Length; j++)
+                {
+                    Console.Write(matrix[i][j]);
+                }
+
+                Console.WriteLine();
+            }
+        }
         public static int Sum(int[] arr)
         {
             int sum = 0;
@@ -36,34 +44,30 @@ namespace Cau1
             {
                 sum += arr[i];
             }
+
             return sum;
         }
-        public static int MaxRow(int[,] arr, int m, int n)
+
+        public static void ShowMaxRow()
         {
-            int sum = 0;
-            for (int i = 0; i < m; i++)
-            {
-                sum += arr[m,i];
+            var max = Sum(matrix[0]);
+            var pos = 0;
+            for (int i = 1; i < matrix.Length; i++)
+                         {
+                if (max < Sum(matrix[i]))
+                {
+                    max = Sum(matrix[i]);
+                    pos = i;
+                }
             }
-            return sum;
+            Console.WriteLine("Hang {0} = {1} la hang co tong lon nhat", pos + 1, string.Join(" ",matrix[pos]));
         }
-        public static int ShowMaxRow(int[,] arr, int n, int m)
-        {
-            int sum = 0;
-            
-            return sum;
-        }
+
         static void Main(string[] args)
         {
-            Console.Write("Nhap n: ");
-            int n = int.Parse(Console.ReadLine());
-            Console.Write("Nhap m: ");
-            int m = int.Parse(Console.ReadLine());
-            int[,] arr2 = new int[n, m];
-            InitMatrix(arr2, n, m);
-            Console.WriteLine("---------------------");
-            //Console.WriteLine("Tong cua mang mot chieu la ");
-
+            InitMatrix();
+            DisplayArr();
+            ShowMaxRow();
         }
     }
 }
