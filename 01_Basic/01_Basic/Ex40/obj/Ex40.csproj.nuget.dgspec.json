@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex40\\Ex40.csproj": {}
+    "C:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex40\\Ex40.csproj": {}
   },
   "projects": {
-    "D:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex40\\Ex40.csproj": {
+    "C:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex40\\Ex40.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex40\\Ex40.csproj",
+        "projectUniqueName": "C:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex40\\Ex40.csproj",
         "projectName": "Ex40",
-        "projectPath": "D:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex40\\Ex40.csproj",
+        "projectPath": "C:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex40\\Ex40.csproj",
         "packagesPath": "C:\\Users\\dangp\\.nuget\\packages\\",
-        "outputPath": "D:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex40\\obj\\",
+        "outputPath": "C:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex40\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

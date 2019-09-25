@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex30\\Ex30.csproj",
+      "projectUniqueName": "C:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex30\\Ex30.csproj",
       "projectName": "Ex30",
-      "projectPath": "D:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex30\\Ex30.csproj",
+      "projectPath": "C:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex30\\Ex30.csproj",
       "packagesPath": "C:\\Users\\dangp\\.nuget\\packages\\",
-      "outputPath": "D:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex30\\obj\\",
+      "outputPath": "C:\\Module2_w3resource_CSharp\\01_Basic\\01_Basic\\Ex30\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

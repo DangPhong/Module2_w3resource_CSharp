@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#divMenu {
+    width: 200px;
+    /* border: 1px solid black; */
+    
+}
+
+#divMenu ul {
+    list-style: none;
+}
+
+#divMenu ul li {
+    width: 100px;
+    border: 1px solid white;
+    padding: 0px;
+    background-color: green;
+     /* float: left;  */
+}
+
+#divMenu ul li a{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    display: block;
+     text-align: center; 
+}
+
+#divMenu ul li :hover{
+    padding: 10px;
+    text-decoration: none;
+    color: yellow;
+    display: block;
+    text-align: center;
+    background-color: black
+}

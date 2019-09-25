@@ -1,0 +1,14 @@
+C:\Module2_w3resource_CSharp\12_NetCore\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.deps.json
+C:\Module2_w3resource_CSharp\12_NetCore\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.json
+C:\Module2_w3resource_CSharp\12_NetCore\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.dev.json
+C:\Module2_w3resource_CSharp\12_NetCore\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Module2_w3resource_CSharp\12_NetCore\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.pdb
+C:\Module2_w3resource_CSharp\12_NetCore\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csprojAssemblyReference.cache
+C:\Module2_w3resource_CSharp\12_NetCore\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Module2_w3resource_CSharp\12_NetCore\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.RazorAssemblyInfo.cache
+C:\Module2_w3resource_CSharp\12_NetCore\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.RazorAssemblyInfo.cs
+C:\Module2_w3resource_CSharp\12_NetCore\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfoInputs.cache
+C:\Module2_w3resource_CSharp\12_NetCore\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfo.cs
+C:\Module2_w3resource_CSharp\12_NetCore\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.RazorTargetAssemblyInfo.cache
+C:\Module2_w3resource_CSharp\12_NetCore\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Module2_w3resource_CSharp\12_NetCore\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.pdb
