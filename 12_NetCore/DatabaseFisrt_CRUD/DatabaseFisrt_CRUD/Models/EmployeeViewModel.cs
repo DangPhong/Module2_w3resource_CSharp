@@ -7,6 +7,9 @@ namespace DatabaseFisrt_CRUD.Models
 {
     public class EmployeeViewModel
     {
+        //public IQueryable <tblEmployee> Employees { get; set; }
+        //public string Text { get; set; }
+
         [Key]
         [Display(Name = "#ID")]
         public int EmployeeID { get; set; }

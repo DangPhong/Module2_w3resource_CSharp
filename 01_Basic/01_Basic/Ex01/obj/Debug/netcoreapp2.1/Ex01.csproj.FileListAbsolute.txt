@@ -9,3 +9,14 @@ D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex01\obj\Debug\netcoreapp2.1\Ex01
 D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex01\obj\Debug\netcoreapp2.1\Ex01.AssemblyInfo.cs
 D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex01\obj\Debug\netcoreapp2.1\Ex01.dll
 D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex01\obj\Debug\netcoreapp2.1\Ex01.pdb
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex01\bin\Debug\netcoreapp2.1\Ex01.deps.json
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex01\bin\Debug\netcoreapp2.1\Ex01.runtimeconfig.json
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex01\bin\Debug\netcoreapp2.1\Ex01.runtimeconfig.dev.json
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex01\bin\Debug\netcoreapp2.1\Ex01.dll
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex01\bin\Debug\netcoreapp2.1\Ex01.pdb
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex01\obj\Debug\netcoreapp2.1\Ex01.csprojAssemblyReference.cache
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex01\obj\Debug\netcoreapp2.1\Ex01.csproj.CoreCompileInputs.cache
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex01\obj\Debug\netcoreapp2.1\Ex01.AssemblyInfoInputs.cache
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex01\obj\Debug\netcoreapp2.1\Ex01.AssemblyInfo.cs
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex01\obj\Debug\netcoreapp2.1\Ex01.dll
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex01\obj\Debug\netcoreapp2.1\Ex01.pdb

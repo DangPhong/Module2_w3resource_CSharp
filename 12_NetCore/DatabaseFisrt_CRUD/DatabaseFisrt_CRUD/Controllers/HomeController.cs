@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using DatabaseFisrt_CRUD.Models;
 using DatabaseFisrt_CRUD.Context;
+using Korzh.EasyQuery.Linq;
 
 namespace DatabaseFisrt_CRUD.Controllers
 {
@@ -18,6 +19,8 @@ namespace DatabaseFisrt_CRUD.Controllers
         }
 
 
+
+        //  [HttpGet]
         public IActionResult Index()
         {
             var _emplst = _dbContext.tblEmployees.
@@ -33,6 +36,22 @@ namespace DatabaseFisrt_CRUD.Controllers
             IList<EmployeeViewModel> emplst = _emplst;
             return View(emplst);
         }
+
+
+        //  [HttpPost]
+        //public IActionResult Index(EmployeeViewModel model)
+        //{
+        //    if (!string.IsNullOrEmpty(model.Text))
+        //    {
+        //        model.Employees = _dbContext.tblEmployees.FullTextSearchQuery(model.Text);
+        //    }
+        //    else
+        //    {
+        //        model.Employees = _dbContext.tblEmployees;
+        //    }
+        //    return View(model);
+        //}
+
 
         [HttpGet]
         public IActionResult Create()
@@ -89,7 +108,7 @@ namespace DatabaseFisrt_CRUD.Controllers
             ViewBag.Skills = GetSkills();
             return View(employeeeEdit);
         }
-        
+
         [HttpPost]
         public IActionResult Edit(EmployeeEditModel model)
         {
@@ -117,7 +136,7 @@ namespace DatabaseFisrt_CRUD.Controllers
             return View(_employees);
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        //[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });

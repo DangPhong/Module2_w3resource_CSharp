@@ -8,3 +8,13 @@ D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex62_SapXepDuongAm0\obj\Debug\net
 D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex62_SapXepDuongAm0\obj\Debug\netcoreapp2.1\Ex62_SapXepDuongAm0.AssemblyInfo.cs
 D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex62_SapXepDuongAm0\obj\Debug\netcoreapp2.1\Ex62_SapXepDuongAm0.dll
 D:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex62_SapXepDuongAm0\obj\Debug\netcoreapp2.1\Ex62_SapXepDuongAm0.pdb
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex62_SapXepDuongAm0\bin\Debug\netcoreapp2.1\Ex62_SapXepDuongAm0.deps.json
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex62_SapXepDuongAm0\bin\Debug\netcoreapp2.1\Ex62_SapXepDuongAm0.runtimeconfig.json
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex62_SapXepDuongAm0\bin\Debug\netcoreapp2.1\Ex62_SapXepDuongAm0.runtimeconfig.dev.json
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex62_SapXepDuongAm0\bin\Debug\netcoreapp2.1\Ex62_SapXepDuongAm0.dll
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex62_SapXepDuongAm0\bin\Debug\netcoreapp2.1\Ex62_SapXepDuongAm0.pdb
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex62_SapXepDuongAm0\obj\Debug\netcoreapp2.1\Ex62_SapXepDuongAm0.csproj.CoreCompileInputs.cache
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex62_SapXepDuongAm0\obj\Debug\netcoreapp2.1\Ex62_SapXepDuongAm0.AssemblyInfoInputs.cache
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex62_SapXepDuongAm0\obj\Debug\netcoreapp2.1\Ex62_SapXepDuongAm0.AssemblyInfo.cs
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex62_SapXepDuongAm0\obj\Debug\netcoreapp2.1\Ex62_SapXepDuongAm0.dll
+C:\Module2_w3resource_CSharp\01_Basic\01_Basic\Ex62_SapXepDuongAm0\obj\Debug\netcoreapp2.1\Ex62_SapXepDuongAm0.pdb

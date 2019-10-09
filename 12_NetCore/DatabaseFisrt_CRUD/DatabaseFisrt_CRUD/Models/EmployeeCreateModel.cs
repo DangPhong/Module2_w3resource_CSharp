@@ -8,7 +8,6 @@ namespace DatabaseFisrt_CRUD.Models
     public class EmployeeCreateModel
     {
         [Key]
-        
         public int EmployeeID { get; set; }
         [Required(ErrorMessage = "Tên nhân viên không hợp lệ")]
         [StringLength(maximumLength:50, MinimumLength =10,

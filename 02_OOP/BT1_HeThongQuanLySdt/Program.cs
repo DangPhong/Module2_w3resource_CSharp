@@ -9,7 +9,6 @@ namespace HeThongQuanLySdt
 
         public static void drawMenu()
         {
-
             int option = 0;
             do
             {
