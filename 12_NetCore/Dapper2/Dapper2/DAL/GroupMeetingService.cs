@@ -44,7 +44,6 @@ namespace Dapper2.DAL
                 parameter.Add("@Id", id);
                 groupMeeting = con.Query<GroupMeeting>("GetGroupMeetingByID", parameter, commandType: CommandType.StoredProcedure).FirstOrDefault();
             }
-
             return groupMeeting;
         }
 
