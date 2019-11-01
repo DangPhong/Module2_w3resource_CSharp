@@ -1,0 +1,85 @@
+﻿@model IEnumerable<ABCEnglishCenter.Models.Domain.Response.Student>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form action="/" method="post">
+    <div class="row input-group">
+        <input type="text" name="stringSearch" class="form-control" placeholder="Search student name..." />
+        <div class="input-group-btn">
+            <input class="btn btn-primary" type="submit" value="Search" asp-controller="Student" asp-action="Index" />
+        </div>
+    </div>
+</form>
+<br />
+<table class="table">
+    <thead>
+        <tr>
+            <th hidden>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DOB)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GenderStr)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LanguageName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LevelName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td hidden>
+                    @Html.DisplayFor(modelItem => item.ID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DOB)
+                </td>
+                <td>
+                    @*<select asp-for="@item.Gender">
+                        <option value="false">Male</option>
+                        <option value="true">Fermale</option>
+                    </select>*@
+                    @Html.DisplayFor(modelItem => item.GenderStr)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LanguageName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LevelName)
+                </td>
+                <td>
+                    <a asp-controller="Student" asp-action="Update" asp-route-id="@item.ID"><i class="fas fa-edit"></i></a>
+                    <a asp-controller="Student" asp-action="Detail" asp-route-id="@item.ID"><i class="fa fa-info-circle" aria-hidden="true"></i></a>
+                    <a asp-controller="Student" asp-action="Delete" asp-route-id="@item.ID" onclick="return confirm('Do you want delete this book??')"><i class="fas fa-trash"></i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
