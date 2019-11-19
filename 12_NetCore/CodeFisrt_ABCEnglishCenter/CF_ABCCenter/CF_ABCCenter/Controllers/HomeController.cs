@@ -38,8 +38,11 @@ namespace CF_ABCCenter.Controllers
                             }).ToList();
             return View(students);
         }
+        
         public IActionResult Create()
         {
+            ViewBag.Levels = GetLevels();
+            ViewBag.Languages = GetLanguages();
             return View();
         }
         [HttpPost]
