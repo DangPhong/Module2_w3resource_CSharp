@@ -4,14 +4,18 @@ namespace Ex2
 {
     class Program
     {
-        public static double getSum(double a, double b)
-        {
-            double sum = a + b;
-            return sum;
-        }
+
         static void Main(string[] args)
         {
-            Console.WriteLine(getSum(6, 5)); 
+            int a = 5;
+            int b = 7;
+            a = a + b;
+            b = a - b;
+            a = a - b;
+            Console.WriteLine("a = " + a);
+            Console.WriteLine("b = " + b);
+
+
         }
     }
 }
