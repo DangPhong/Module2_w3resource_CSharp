@@ -9,3 +9,13 @@ D:\Module2_w3resource_CSharp\05_Collection\00_Collection\00_Collection\bin\Debug
 D:\Module2_w3resource_CSharp\05_Collection\00_Collection\00_Collection\bin\Debug\netcoreapp2.2\00_Collection.pdb
 D:\Module2_w3resource_CSharp\05_Collection\00_Collection\00_Collection\obj\Debug\netcoreapp2.2\00_Collection.dll
 D:\Module2_w3resource_CSharp\05_Collection\00_Collection\00_Collection\obj\Debug\netcoreapp2.2\00_Collection.pdb
+C:\Module2_w3resource_CSharp\05_Collection\00_Collection\00_Collection\bin\Debug\netcoreapp2.2\00_Collection.deps.json
+C:\Module2_w3resource_CSharp\05_Collection\00_Collection\00_Collection\bin\Debug\netcoreapp2.2\00_Collection.runtimeconfig.json
+C:\Module2_w3resource_CSharp\05_Collection\00_Collection\00_Collection\bin\Debug\netcoreapp2.2\00_Collection.runtimeconfig.dev.json
+C:\Module2_w3resource_CSharp\05_Collection\00_Collection\00_Collection\bin\Debug\netcoreapp2.2\00_Collection.dll
+C:\Module2_w3resource_CSharp\05_Collection\00_Collection\00_Collection\bin\Debug\netcoreapp2.2\00_Collection.pdb
+C:\Module2_w3resource_CSharp\05_Collection\00_Collection\00_Collection\obj\Debug\netcoreapp2.2\00_Collection.csprojAssemblyReference.cache
+C:\Module2_w3resource_CSharp\05_Collection\00_Collection\00_Collection\obj\Debug\netcoreapp2.2\00_Collection.AssemblyInfoInputs.cache
+C:\Module2_w3resource_CSharp\05_Collection\00_Collection\00_Collection\obj\Debug\netcoreapp2.2\00_Collection.AssemblyInfo.cs
+C:\Module2_w3resource_CSharp\05_Collection\00_Collection\00_Collection\obj\Debug\netcoreapp2.2\00_Collection.dll
+C:\Module2_w3resource_CSharp\05_Collection\00_Collection\00_Collection\obj\Debug\netcoreapp2.2\00_Collection.pdb

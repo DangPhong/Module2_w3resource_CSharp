@@ -1,0 +1,35 @@
+﻿@model IEnumerable<CF_ABCCenter.Models.Languages.LanguageView>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Language List</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-secondary">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LanguageName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LanguageName)
+            </td>
+            <td>
+                @*<a asp-action="Edit" asp-route-id="@item.LanguageId"><i class="fas fa-edit"></i></a> |
+                <a asp-action="Details" asp-route-id="@item.LanguageId"><i class="fas fa-address-card"></i></a> |*@
+                <a asp-action="Delete" asp-route-id="@item.LanguageId" onclick="return confirm('Do you want delete this language??')"><i class="fas fa-trash-alt"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

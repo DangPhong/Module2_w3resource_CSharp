@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Recursion\\Recursion.csproj": {}
+    "C:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Recursion\\Recursion.csproj": {}
   },
   "projects": {
-    "D:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Recursion\\Recursion.csproj": {
+    "C:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Recursion\\Recursion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Recursion\\Recursion.csproj",
+        "projectUniqueName": "C:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Recursion\\Recursion.csproj",
         "projectName": "Recursion",
-        "projectPath": "D:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Recursion\\Recursion.csproj",
+        "projectPath": "C:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Recursion\\Recursion.csproj",
         "packagesPath": "C:\\Users\\dangp\\.nuget\\packages\\",
-        "outputPath": "D:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Recursion\\obj\\",
+        "outputPath": "C:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Recursion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -49,10 +49,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

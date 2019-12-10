@@ -41,6 +41,14 @@ namespace CF_ABCCenter.Context
         public DbSet<CF_ABCCenter.Models.Students.StudentAdd> StudentAdd { get; set; }
 
         public DbSet<CF_ABCCenter.Models.Students.StudentEdit> StudentEdit { get; set; }
+
+        public DbSet<CF_ABCCenter.Models.Languages.LanguageView> LanguageView { get; set; }
+
+        public DbSet<CF_ABCCenter.Models.Levels.LevelView> LevelView { get; set; }
+
+        public DbSet<CF_ABCCenter.Models.Languages.LanguageAdd> LanguageAdd { get; set; }
+
+        public DbSet<CF_ABCCenter.Models.Levels.LevelAdd> LevelAdd { get; set; }
         // nhieu - nhieu 
         //protected override void OnModelCreating(ModelBuilder modelBuilder)
         //{

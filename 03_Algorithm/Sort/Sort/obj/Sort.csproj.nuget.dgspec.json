@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Sort\\Sort.csproj": {}
+    "C:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Sort\\Sort.csproj": {}
   },
   "projects": {
-    "D:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Sort\\Sort.csproj": {
+    "C:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Sort\\Sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Sort\\Sort.csproj",
+        "projectUniqueName": "C:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Sort\\Sort.csproj",
         "projectName": "Sort",
-        "projectPath": "D:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Sort\\Sort.csproj",
+        "projectPath": "C:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Sort\\Sort.csproj",
         "packagesPath": "C:\\Users\\dangp\\.nuget\\packages\\",
-        "outputPath": "D:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Sort\\obj\\",
+        "outputPath": "C:\\Module2_w3resource_CSharp\\03_Algorithm\\Sort\\Sort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -49,10 +49,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

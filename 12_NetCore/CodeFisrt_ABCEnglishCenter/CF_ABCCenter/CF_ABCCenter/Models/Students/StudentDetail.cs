@@ -18,6 +18,6 @@ namespace CF_ABCCenter.Models.Students
         public string LanguageName { get; set; }
         public string LevelName { get; set; }
         [Display(Name = "Sex")]
-        public string GenderStr => Sex ? "Nữ" : "Nam";
+        public string GenderStr => Sex ? "Fermale" : "Male";
     }
 }

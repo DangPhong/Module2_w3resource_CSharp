@@ -1,71 +1,128 @@
-﻿@model IEnumerable<CF_ABCCenter.Models.Students.StudentView>
+﻿@model PaginatedList<CF_ABCCenter.Models.Students.StudentView>
+@*@model PaginatedList<CF_ABCCenter.Models.Students.StudentView>*@
+
 
 @{
     ViewData["Title"] = "Index";
 }
+<div>
+    <h4>
+        <marquee height="30" behavior="alternate">
+            <marquee behavior="alternate">
+                ABC Language Center - Nguyen Dang Phong
+            </marquee>
+        </marquee>
+    </h4>
+</div>
 
-<h1 style="text-align: center">Student List</h1>
+<h1 style="text-align: center">
+    Student List -
+    学生リスト
+</h1>
 
+<form action="/" method="post">
+    <div class="row input-group">
+        <input type="text" name="searchString" class="form-control" />
+        <div class="input-group-btn">
+            <input class="btn btn-primary" type="submit" value="Search" asp-controller="Home" asp-action="Index" />
+        </div>
+    </div>
+</form>
 <p>
-    <a asp-action="Create"> <i class="fas fa-user-plus"></i> Add New Student </a>
+    <a asp-action="Create" class="btn" id="btn-create"> Add New Student  </a>
 </p>
-<table class="table table-hover " >
+<table class="table table-hover table table-bordered ">
     <thead class="thead-dark">
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Name)
+                @*@Html.DisplayNameFor(model => model.Name)*@
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]" style="color:white">Name</a>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.IMG)
+                @*@Html.DisplayNameFor(model => model.IMG)*@
+                Image
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.DOB)
+                @*@Html.DisplayNameFor(model => model.DOB)*@
+                DOB
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.GenderStr)
+                @*@Html.DisplayNameFor(model => model.GenderStr)*@
+                Sex
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Email)
+                @*@Html.DisplayNameFor(model => model.Email)*@
+                Email
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.LanguageName)
+                @*@Html.DisplayNameFor(model => model.LanguageName)*@
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["LanguageSortParm"]" style="color:white">Language</a>
+
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.LevelName)
+                @*@Html.DisplayNameFor(model => model.LevelName)*@
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["LevelSortParm"]" style="color:white">Level</a>
+
             </th>
             <th></th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Name)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.IMG)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.DOB)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.GenderStr)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Email)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.LanguageName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.LevelName)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.ID"><i class="fas fa-user-edit"></i></a> |
-                <a asp-action="Details" asp-route-id="@item.ID"><i class="fas fa-address-card"></i></a> |
-                <a asp-action="Delete" asp-route-id="@item.ID"  onclick="return confirm('Do you want delete this student??')"><i class="fas fa-user-minus"></i></a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    <img width="128" height="128" src="data:image/png;base64, @Html.DisplayFor(modelItem => item.IMG)" />
+                    @*@Html.DisplayFor(modelItem => item.IMG)*@
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DOB)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GenderStr)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LanguageName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LevelName)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ID"><i class="fas fa-user-edit"></i></a> 
+                    <a asp-action="Details" asp-route-id="@item.ID"><i class="fas fa-address-card"></i></a> 
+                    <a asp-action="Delete" asp-route-id="@item.ID" onclick="return confirm('Do you want delete this student??')"><i class="fas fa-user-minus"></i></a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
+
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+
+<div style="text-align: center">
+    <a asp-action="Index"
+       asp-route-sortOrder="@ViewData["CurrentSort"]"
+       asp-route-pageNumber="@(Model.PageIndex - 1)"
+       asp-route-currentFilter="@ViewData["CurrentFilter"]"
+       class="btn btn-dark @prevDisabled">
+
+        Previous
+    </a>
+    <a asp-action="Index"
+       asp-route-sortOrder="@ViewData["CurrentSort"]"
+       asp-route-pageNumber="@(Model.PageIndex + 1)"
+       asp-route-currentFilter="@ViewData["CurrentFilter"]"
+       class="btn btn-dark @nextDisabled">
+        Next
+    </a>
+</div>
+<link href="~/css/style.css" rel="stylesheet" />
